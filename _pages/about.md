@@ -1,10 +1,8 @@
 ---
 permalink: /
-title: "Dimitar Georgiev"
+title: "Bio"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Bio
