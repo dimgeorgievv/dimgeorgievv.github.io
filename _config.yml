@@ -11,7 +11,7 @@ title                    : "Dimitar Georgiev"
 title_separator          : "-"
 name                     : &name "Dimitar Georgiev"
 description              : &description "My personal website"
-url                      : https://dimgeorgievv.github.io"
+url                      : "https://dimgeorgievv.github.io"
 repository               : "dimgeorgievv/dimgeorgievv.github.io"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
