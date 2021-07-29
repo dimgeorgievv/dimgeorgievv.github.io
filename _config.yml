@@ -1,7 +1,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Dimitar Georgiev"
-title_separator          : "|"
+title_separator          : " | "
 name                     : &name "Dimitar Georgiev"
 description              : &description "My personal website"
 url                      : "https://dimgeorgievv.github.io"
