@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Recent graduated from the University of Southampton with a MMATH Master of Mathematics degree in Mathematics with First Class Honours. 
+Recently graduated from the University of Southampton with a MMATH Master of Mathematics degree in Mathematics with First Class Honours. 
 
 I am currently working as a Research Assistant Intern at the Agents, Interaction and Complexity (AIC) research group at the University of Southampton. 
 
