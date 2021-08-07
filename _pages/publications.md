@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 {% if author.googlescholar %}
-  You can check <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+  <u>You can check <a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
 {% for post in site.publications reversed %}
