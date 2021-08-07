@@ -9,24 +9,41 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Incoming PhD student at the AI4Health CDT at Imperial College London (2021-2025)
-* MMath Mathematics at the University of Southampton (2017-2021)
-  * First Class Honours 
+## Education
+#### AI4Health CDT, Imperial College London (*London, UK*)
+Incoming PhD student (*Oct 2021 - Oct 2025*)
+* Lorem ipsum
+* Lorem ipsum
 
-Work experience
-======
-* Research Assistance Intern at the University of Southampton (Nov 2019 - Sept 2021)
-  * Agents, Interaction and Complexity research group
-* Data Science Intern at GE Aviation (Jun 2019 - Sept 2019)
-  * 
-* Web Development Intern at the University of Southampton (Jul 2018 - Aug 2018)
-  *
-* Full-Stack Software Developer at Gamsoft Ltd. (Aug 2016 - Sept 2017)
-  *
-Skills
-======
+#### University of Southampton (*Southampton, UK*)
+First Class Honours, MMath Mathematics (*Sep 2017 - Jul 2021*)
+* Lorem ipsum
+* Lorem ipsum
+
+
+## Work experience
+#### Agents, Interaction and Complexity (AIC) research group, University of Southampton (*Southampton, UK*)
+Research Assistance Intern (*Nov 2019 - Sep 2021*)
+* Lorem ipsum
+* Lorem ipsum
+
+#### GE Aviation (*Southampton, UK*)
+Data Science Intern (*Jun 2019 - Sep 2019*)
+* Lorem ipsum
+* Lorem ipsum
+
+#### Southampton University Students' Union, University of Southampton (*Southampton, UK*)
+Web Development Intern (*Jul 2018 - Aug 2018*)
+* Lorem ipsum
+* Lorem ipsum
+
+#### Gamsoft Ltd. (*Sofia, Bulgaria*)
+Full-Stack Software Developer at (*Aug 2016 - Sep 2017*)
+* Lorem ipsum
+* Lorem ipsum
+
+
+## Skills
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
