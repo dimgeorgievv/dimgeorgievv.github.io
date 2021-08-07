@@ -29,7 +29,7 @@
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
         <a href="{{ post.link }}" rel="permalink">{{ title }}</a>
-      {% elif post.paperurl %}
+      {% elsif post.paperurl %}
         <a href="{{ post.paperurl }}" rel="permalink">{{ title }}</a>
       {% else %}
         <h3>{{ title }}</h3>
