@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+#
 
 # Education
 ### AI4Health CDT, Imperial College London (*London, UK*)
@@ -19,6 +20,7 @@ First Class Honours, MMath Mathematics (*Sep 2017 - Jul 2021*)
 * Lorem ipsum
 * Lorem ipsum
 
+#
 
 # Work experience
 ### Agents, Interaction and Complexity (AIC) research group, University of Southampton (*Southampton, UK*)
@@ -41,6 +43,7 @@ Full-Stack Software Developer at (*Aug 2016 - Sep 2017*)
 * Lorem ipsum
 * Lorem ipsum
 
+#
 
 # Skills
 * Skill 1
@@ -49,6 +52,8 @@ Full-Stack Software Developer at (*Aug 2016 - Sep 2017*)
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+
+#
 
 # Publications
 <ul>{% for post in site.publications %}
