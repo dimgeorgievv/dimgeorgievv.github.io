@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Recently graduated from the University of Southampton with a MMATH Master of Mathematics degree in Mathematics with First Class Honours. 
+I recently graduated from the University of Southampton with a MMATH Master of Mathematics degree in Mathematics with First Class Honours, where I specialised in Mathematics, Artificial Intelligence, Computer Science and Theoretical Physics. 
 
-I am currently working as a Research Assistant Intern at the Agents, Interaction and Complexity (AIC) research group at the University of Southampton. 
+I have also been working as a Research Assistance Intern at the Agents, Interaction and Complexity ([AIC](https://www.aic.ecs.soton.ac.uk/)) research group at the University of Southampton for almost two years. My research work focuses on Multi-Agent Systems, agent-based modelling and simulations, optimisation and machine learning, and their applications in the fields of swarm robotics and decarbonisation. I also have good working experience in the areas of Machine Learning, Data Science and Full-Stach Software Development.
 
-I am joining the AI4Healt CDT at the Imperial College London as a PhD student in AI and Machine Learning in October 2021.
+Finally, I am looking forward to joining the [AI4Healt CDT](https://ai4health.io/) at the Imperial College London as a PhD student in AI and Machine Learning in October 2021 where I will be working on deep learning for cerebral organoid phenotyping and drug discovery under the supervison of [Prof. Mauricio Barahona](https://www.imperial.ac.uk/people/m.barahona) and [Prof. Molly Stevens](https://www.imperial.ac.uk/people/m.stevens).
