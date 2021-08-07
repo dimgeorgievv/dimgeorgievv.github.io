@@ -12,7 +12,7 @@ author_profile: true
 {% endif %}
 
 {% if author.googlescholar %}
-  <u>You can check <a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+  <p>You can check <a href="{{author.googlescholar}}">my Google Scholar profile</a>.</p>
 {% endif %}
 
 {% for post in site.publications reversed %}
