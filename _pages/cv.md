@@ -11,7 +11,7 @@ redirect_from:
 
 <p>My full CV is available <a href="https://dimgeorgievv.github.io/files/CV.pdf">here</a>.</p>
 
-<br/>
+</br>
 
 # Education
 ### AI4Health CDT, Imperial College London (*London, UK*)
