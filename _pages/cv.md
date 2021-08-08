@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-<br/>
-
 <p>My full CV is available <a href="https://dimgeorgievv.github.io/files/CV.pdf">here</a>.</p>
 
 <br/>
