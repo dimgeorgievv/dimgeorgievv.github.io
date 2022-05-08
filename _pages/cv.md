@@ -9,7 +9,7 @@ redirect_from:
 
 <p>You can check my full CV <a href="https://dimgeorgievv.github.io/files/CV.pdf">here</a>.</p>
 
-<br/>
+<!-- <br/>
 
 # Education
 ### <a href="https://ai4health.io/">AI4Health CDT</a>, Imperial College London (*London, UK*)
@@ -66,4 +66,4 @@ Full-Stack Software Developer (*Aug 2016 - Sep 2017*)
 <!-- # Publications
 <ul>{% for post in site.publications %}
   {% include archive-single-cv.html %}
-{% endfor %}</ul> -->
+{% endfor %}</ul> --> -->
