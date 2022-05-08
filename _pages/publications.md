@@ -11,10 +11,10 @@ author_profile: true
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
-{% if author.googlescholar %}
-  <p>You can check <a href="{{author.googlescholar}}">my Google Scholar profile</a>.</p>
-{% endif %}
-
 {% for post in site.publications reversed %}
   {% include archive-single-publication.html %}
 {% endfor %}
+
+{% if author.googlescholar %}
+  <p>You can also check <a href="{{author.googlescholar}}">my Google Scholar profile</a>.</p>
+{% endif %}
