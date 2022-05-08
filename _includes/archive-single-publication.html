@@ -4,16 +4,15 @@
   <div class="row d-flex flex-wrap align-items-center">
     {% if post.image_path %}
         <div class="col-md-3 align-items-center">
-            <img src={{post.image_path}} alt={{post.title}}>
+            <img src="{{post.image_path}}" alt="{{post.title}}">
         </div>
     {% endif %}
     <div class="col-md-9">
       <h3>
         <strong>{{ post.title }}</strong>
         <strong> [</strong><a href="{{ post.paperurl }}" rel="permalink">link</a><strong>] </strong>
-        <br>
-        <p> {{ post.authors }} </p>
       </h3>
+      {{ post.authors }}
       <p>
         <i>{{ post.type }}</i>
         <br>
