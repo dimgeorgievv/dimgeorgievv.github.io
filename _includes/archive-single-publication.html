@@ -12,7 +12,8 @@
         <strong>{{ post.title }}</strong>
         <strong> [</strong><a href="{{ post.paperurl }}" rel="permalink">link</a><strong>] </strong>
       </h3>
-      <p style="line-height:22px; font-size: 18px;" class="mt-0"> {{ post.citation }} </p>
+      <p><i>{{ post.type }}</i></p>
+      <p> {{ post.authors }} </p>
       <p><i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }} </p>
     </div>
     <hr class="mt-0 mb-0">
