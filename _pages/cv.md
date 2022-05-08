@@ -43,7 +43,7 @@ Web Development Intern (*Jul 2018 - Aug 2018*)
 * Was responsible for modernising and optimising the front- and back-end software applications of the University of Southampton Students’ Union
 
 ### Gamsoft Ltd. (*Sofia, Bulgaria*)
-Full-Stack Software Developer at (*Aug 2016 - Sep 2017*)
+Full-Stack Software Developer (*Aug 2016 - Sep 2017*)
 * Worked on various end-to-end projects including web, database and desktop applications for both internal and external customers
 
 <!-- <br/>
