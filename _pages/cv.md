@@ -14,7 +14,7 @@ redirect_from:
 # Education
 ### <a href="https://ai4health.io/">AI4Health CDT</a>, Imperial College London (*London, UK*)
 Incoming PhD student (*Oct 2021 - Oct 2025*)
-* Supervised by and a part of the research groups of <a href="https://www.imperial.ac.uk/people/m.barahona">Prof. Mauricio Barahona</a>.</p> and <a href="https://www.stevensgroup.org">Prof. Molly Stevens</a>.</p> 
+* Supervised by and a part of the research groups of <a href="https://www.imperial.ac.uk/people/m.barahona">Prof. Mauricio Barahona</a> and <a href="https://www.stevensgroup.org">Prof. Molly Stevens</a>. 
 * Working with a multidisciplinary team of experts to advance tissue analysis and precision medicine 
 * Developing deep learning approaches for cerebral organoid phenotyping and drug discovery
 * Working on topics in representation learning, deep generative modelling and machine learning for healthcare
