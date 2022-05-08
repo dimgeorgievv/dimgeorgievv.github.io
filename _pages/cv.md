@@ -45,6 +45,7 @@ Web Development Intern (*Jul 2018 - Aug 2018*)
 ### Gamsoft Ltd. (*Sofia, Bulgaria*)
 Full-Stack Software Developer (*Aug 2016 - Sep 2017*)
 * Worked on various end-to-end projects including web, database and desktop applications for both internal and external customers
+-->
 
 <!-- <br/>
 
@@ -66,4 +67,4 @@ Full-Stack Software Developer (*Aug 2016 - Sep 2017*)
 <!-- # Publications
 <ul>{% for post in site.publications %}
   {% include archive-single-cv.html %}
-{% endfor %}</ul> --> -->
+{% endfor %}</ul> --> 
