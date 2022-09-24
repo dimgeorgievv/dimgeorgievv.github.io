@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student in Artificial Intelligence and Machine Learning within the [AI4Healt CDT](https://ai4health.io/) at Imperial College London working on fundamental deep learning and its applications to cerebral organoid phenotyping and drug discovery under the supervision of [Prof. Mauricio Barahona](https://www.imperial.ac.uk/people/m.barahona) and [Prof. Molly Stevens](https://www.stevensgroup.org).
+I am a PhD student in Artificial Intelligence and Machine Learning within the [AI4Health CDT](https://ai4health.io/) at Imperial College London working on fundamental deep learning and its applications to cerebral organoid phenotyping and drug discovery under the supervision of [Prof. Mauricio Barahona](https://www.imperial.ac.uk/people/m.barahona) and [Prof. Molly Stevens](https://www.stevensgroup.org).
 
 Prior to that, I obtained an MMath degree in Mathematics with First Class Honours at the University of Southampton, where I specialised at Mathematics, Artificial Intelligence, Computer Science and Theoretical Physics.
 
