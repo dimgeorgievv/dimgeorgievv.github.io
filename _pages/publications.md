@@ -12,7 +12,7 @@ author_profile: true
 {% endif %}
 
 {% if author.googlescholar %}
-  <p>For full list, check <a href="{{author.googlescholar}}">my Google Scholar profile</a>.</p>
+  <p>For a full list, check <a href="{{author.googlescholar}}">my Google Scholar profile</a>.</p>
 {% endif %}
 
 <br>
