@@ -4,7 +4,7 @@ main:
     url: /bio/
     
   - title: "Resume"
-    url: /files/CV.pdf
+    url: /files/Resume.pdf
     
   - title: "Publications"
     url: /publications/
