@@ -17,6 +17,10 @@ author_profile: true
 
 <br>
 
+<p>Selected publications:</p>
+
+<br>
+
 {% for post in site.publications reversed %}
   {% include archive-single-publication.html %}
 {% endfor %}
