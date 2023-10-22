@@ -4,5 +4,5 @@ collection: publications
 type: "Conference paper"
 venue: Conference on Neural Information Processing Systems (NeurIPS)
 date: 2023
-authors: 'Filip Ekström Kelvinius*, *Dimitar Georgiev**, Artur Toshev*, Johannes Gasteiger*'
+authors: 'Filip Ekström Kelvinius*, **Dimitar Georgiev***, Artur Toshev*, Johannes Gasteiger'
 ---
