@@ -10,7 +10,7 @@ I am a PhD student in Artificial Intelligence and Machine Learning within the [A
 
 
 ## Recent highlights
-#### 2023:
+##### 2023:
 - ***September:*** Our work "Accelerating Molecular Graph Neural Networks via Knowledge Distillation" is [accepted](https://nips.cc/virtual/2023/poster/72565) to the Conference on Neural Information Processing Systems (NeurIPS) 2023.
 - ***July:*** Our work "Accelerating Molecular Graph Neural Networks via Knowledge Distillation" is [accepted](https://syns-ml.github.io/2023/assets/papers/67.pdf) to the Synergy of Scientific and Machine Learning Modeling workshop at the International Conference on Machine Learning (ICML) 2023.
 - ***July:*** Our preprint on RamanSPy is [out](https://arxiv.org/abs/2307.13650).
