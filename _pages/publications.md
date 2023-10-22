@@ -11,7 +11,7 @@ author_profile: true
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
-<be>
+<br>
 
 {% if author.googlescholar %}
   <p>For a full list, check <a href="{{author.googlescholar}}">my Google Scholar profile</a>.</p>
