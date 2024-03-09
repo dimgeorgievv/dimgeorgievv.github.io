@@ -10,8 +10,10 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
 
 
 ### Recent highlights
-###### 2023:
+###### 2024:
 - ***March:*** Our preprint titled *"Hyperspectral unmixing for Raman spectroscopy via physics-constrained autoencoders"* is [out](https://arxiv.org/abs/2403.04526).
+
+###### 2023:
 - ***December:*** Presented our work *"Accelerating Molecular Graph Neural Networks via Knowledge Distillation"* at NeurIPS 2023 in New Orleans.
 - ***November:*** Our work *"Accelerating Molecular Graph Neural Networks via Knowledge Distillation"* has been [accepted (oral)](https://logconference.org) to the Learning on Graphs (LoG) Conference 2023.
 - ***September:*** Our work *"Accelerating Molecular Graph Neural Networks via Knowledge Distillation"* has been [accepted](https://nips.cc/virtual/2023/poster/72565) to the Conference on Neural Information Processing Systems (NeurIPS) 2023.
