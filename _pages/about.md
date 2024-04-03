@@ -7,7 +7,7 @@ redirect_from:
 ---
 I am a PhD student in Artificial Intelligence and Machine Learning at Imperial College London working on deep learning approaches for cerebral organoid phenotyping and drug discovery under the supervision of [Prof. Mauricio Barahona](https://www.imperial.ac.uk/people/m.barahona) and [Prof. Dame Molly Stevens](https://www.stevensgroup.org).
 
-
+<br>
 
 Recent highlights
 ------
@@ -24,6 +24,8 @@ Recent highlights
 - ***July:*** Our preprint on RamanSPy is [out](https://arxiv.org/abs/2307.13650).
 - ***June:*** We introduce [RamanSPy](https://ramanspy.readthedocs.io) - an open-source Python package for integrative Raman spectroscopy data analysis.
 - ***June:*** Our preprint titled *"Accelerating Molecular Graph Neural Networks via Knowledge Distillation"* is [out](https://arxiv.org/abs/2306.14818).
+
+<br>
 
 Selected publications
 ------
