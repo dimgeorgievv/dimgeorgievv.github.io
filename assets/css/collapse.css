@@ -14,7 +14,7 @@
 .container .content {
     display: none;
     padding : 5px;
-
+}
 .img:active {
     position: fixed;
     top: 50%;
