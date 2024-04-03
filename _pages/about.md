@@ -46,7 +46,7 @@ Selected publications
 <table style="width:100%">
   <tr>
     <th width="30%">
-      <img src="../files/raman_logo_transparent.png" width="350"/>
+      <img src="../files/raman_logo_.png" width="350"/>
     </th>
     <th style="text-align:left" width="70%">
             <span style="font-size:18px">RamanSPy: An open-source Python package for integrative Raman spectroscopy data analysis</span><br><br>
