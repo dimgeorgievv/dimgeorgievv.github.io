@@ -9,7 +9,9 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
 
 
 
-### Recent highlights
+Recent highlights
+------
+
 ###### 2024:
 - ***March:*** Started a new position as an Academic Visitor at University of Oxford.
 - ***March:*** Our preprint titled *"Hyperspectral unmixing for Raman spectroscopy via physics-constrained autoencoders"* is [out](https://arxiv.org/abs/2403.04526).
@@ -22,3 +24,22 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
 - ***July:*** Our preprint on RamanSPy is [out](https://arxiv.org/abs/2307.13650).
 - ***June:*** We introduce [RamanSPy](https://ramanspy.readthedocs.io) - an open-source Python package for integrative Raman spectroscopy data analysis.
 - ***June:*** Our preprint titled *"Accelerating Molecular Graph Neural Networks via Knowledge Distillation"* is [out](https://arxiv.org/abs/2306.14818).
+
+Selected publications
+------
+<table style="width:100%">
+  <tr>
+    <th width="30%">
+      <img src="../files/raman_logo_transparent.jpg" width="350"/>
+    </th>
+    <th style="text-align:left" width="70%">
+            <span style="font-size:18px">RamanSPy: An open-source Python package for integrative Raman spectroscopy data analysis</span><br>
+            <span style="font-size:16px">Dimitar Georgiev<span style="font-weight:normal">, Simon Vilms Pedersen, Ruoxiao Xie, Álvaro Fernández-Galiana, Molly M. Stevens, Mauricio Barahona </span></span><br>
+             <span style="font-weight:normal;font-size:16px">Under review, 2024</span><br>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2302.09309.pdf">Paper</a>][<a href="https://github.com/barahona-research-group/RamanSPy">Code</a>][<a href="https://ramanspy.readthedocs.io">Documentation</a>][<a href="src="https://static.pepy.tech/badge/ramanspy">Downloads</a>][<a class="github-button" href="https://github.com/barahona-research-group/RamanSPy" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star barahona-research-group/RamanSPy on GitHub">Star</a>]</span>
+    </th>
+  </tr> 
+</table>
+
+
+
