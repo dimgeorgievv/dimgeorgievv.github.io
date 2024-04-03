@@ -30,13 +30,15 @@ Selected publications
 <table style="width:100%">
   <tr>
     <th width="30%">
-      <img src="../files/raman_logo_transparent.jpg" width="350"/>
+      <img src="../files/raman_logo_transparent.png" width="350"/>
     </th>
     <th style="text-align:left" width="70%">
             <span style="font-size:18px">RamanSPy: An open-source Python package for integrative Raman spectroscopy data analysis</span><br>
             <span style="font-size:16px">Dimitar Georgiev<span style="font-weight:normal">, Simon Vilms Pedersen, Ruoxiao Xie, Álvaro Fernández-Galiana, Molly M. Stevens, Mauricio Barahona </span></span><br>
              <span style="font-weight:normal;font-size:16px">Under review, 2024</span><br>
-            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2302.09309.pdf">Paper</a>][<a href="https://github.com/barahona-research-group/RamanSPy">Code</a>][<a href="https://ramanspy.readthedocs.io">Documentation</a>][<a href="src="https://static.pepy.tech/badge/ramanspy">Downloads</a>][<a class="github-button" href="https://github.com/barahona-research-group/RamanSPy" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star barahona-research-group/RamanSPy on GitHub">Star</a>]</span>
+            <span style="font-weight:normal;font-size:16px">[<a href="https://arxiv.org/pdf/2302.09309.pdf">Paper</a>][<a href="https://github.com/barahona-research-group/RamanSPy">Code</a>][<a href="https://ramanspy.readthedocs.io">Documentation</a>]<br>
+              <span style="font-weight:normal;font-size:16px"><img src="https://static.pepy.tech/badge/ramanspy"> 
+              <a class="github-button" href="https://github.com/barahona-research-group/RamanSPy" data-color-    scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-show-count="true" aria-label="Star barahona-research-group/RamanSPy on GitHub">Star</a></span>
     </th>
   </tr> 
 </table>
