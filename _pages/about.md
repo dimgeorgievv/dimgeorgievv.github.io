@@ -32,7 +32,7 @@ Selected publications
 <table style="width:100%">
   <tr>
     <th width="30%">
-      <img src="../files/gnns_kd_abstract.png" width="350"/>
+      <img class="zoom-in-img" src="../files/gnns_kd_abstract.png" width="350"/>
     </th>
     <th style="text-align:left" width="70%">
             <span style="font-size:18px">Accelerating Molecular Graph Neural Networks via Knowledge Distillation</span><br><br>
@@ -46,7 +46,7 @@ Selected publications
 <table style="width:100%">
   <tr>
     <th width="30%">
-      <img src="../files/raman_logo_.png" width="350"/>
+      <img class="zoom-in-img" src="../files/raman_logo_.png" width="350"/>
     </th>
     <th style="text-align:left" width="70%">
             <span style="font-size:18px">RamanSPy: An open-source Python package for integrative Raman spectroscopy data analysis</span><br><br>
@@ -60,7 +60,7 @@ Selected publications
 <table style="width:100%">
   <tr>
     <th width="30%">
-      <img src="../files/unmixing_aes.png" width="350"/>
+      <img class="zoom-in-img" src="../files/unmixing_aes.png" width="350"/>
     </th>
     <th style="text-align:left" width="70%">
             <span style="font-size:18px">Hyperspectral unmixing for Raman spectroscopy via physics-constrained autoencoders</span><br><br>
