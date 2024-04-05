@@ -70,7 +70,7 @@ Selected publications
             <span style="font-size:18px">Hyperspectral unmixing for Raman spectroscopy via physics-constrained autoencoders</span><br><br>
             <span style="font-size:16px">Dimitar Georgiev<span style="font-weight:normal">, Álvaro Fernández-Galiana, Simon Vilms Pedersen, Georgios Papadopoulos, Ruoxiao Xie, Molly M. Stevens, Mauricio Barahona </span></span><br><br>
              <span style="font-weight:normal;font-size:16px">Under review, 2024</span><br><br>
-            <span style="font-weight:normal;font-size:16px;vertical-align:sub;"><a href="https://arxiv.org/abs/2403.04526"><img src="https://img.shields.io/badge/Preprint-arXiv-b31b1b.svg" style="vertical-align: sub;"></a></span> <span style="font-weight:normal;font-size:16px;vertical-align:sub;"><a href="#" class="cite-modal" data-filename="unmixing.bib"><img src="https://img.shields.io/badge/Cite-BibTeX-red" style="vertical-align: sub;"></a></span>
+            <span style="font-weight:normal;font-size:16px;vertical-align:sub;"><a href="https://arxiv.org/abs/2403.04526"><img src="https://img.shields.io/badge/Preprint-arXiv-b31b1b.svg" style="vertical-align: sub;"></a> <a href="#" class="cite-modal" data-filename="unmixing.bib"><img src="https://img.shields.io/badge/Cite-BibTeX-red" style="vertical-align:sub;"></a></span>
     </th>
   </tr> 
 </table>
