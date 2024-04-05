@@ -70,7 +70,7 @@ Selected publications
             <span style="font-size:18px">Hyperspectral unmixing for Raman spectroscopy via physics-constrained autoencoders</span><br><br>
             <span style="font-size:16px">Dimitar Georgiev<span style="font-weight:normal">, Álvaro Fernández-Galiana, Simon Vilms Pedersen, Georgios Papadopoulos, Ruoxiao Xie, Molly M. Stevens, Mauricio Barahona </span></span><br><br>
              <span style="font-weight:normal;font-size:16px">Under review, 2024</span><br><br>
-            <span style="font-weight:normal;font-size:16px;vertical-align:sub;"><a href="https://arxiv.org/abs/2403.04526"><img src="https://img.shields.io/badge/Preprint-arXiv-b31b1b.svg" style="vertical-align: sub;"></a> <a href="#" class="cite-modal" data-toggle="modal" data-target="#citeModal" data-filename="unmixing.bib"><img src="https://img.shields.io/badge/Cite-BibTeX-red" style="vertical-align: sub;"></a></span>
+            <span style="font-weight:normal;font-size:16px;vertical-align:sub;"><a href="https://arxiv.org/abs/2403.04526"><img src="https://img.shields.io/badge/Preprint-arXiv-b31b1b.svg" style="vertical-align: sub;"></a> <a href="#" class="cite-modal" data-toggle="modal" data-target="#citeModal" data-filename="@article%7Bgeorgiev2024hyperspectral,%0A%20%20title=%7BHyperspectral%20unmixing%20for%20Raman%20spectroscopy%20via%20physics-constrained%20autoencoders%7D,%0A%20%20author=%7BGeorgiev,%20Dimitar%20and%20Fern{\'a}ndez-Galiana,%20Alvaro%20and%20Pedersen,%20Simon%20Vilms%20and%20Papadopoulos,%20Georgios%20and%20Xie,%20Ruoxiao%20and%20Stevens,%20Molly%20M%20and%20Barahona,%20Mauricio%7D,%0A%20%20journal=%7BarXiv%20preprint%20arXiv:2403.04526%7D,%0A%20%20year=%7B2024%7D%0A%7D"><img src="https://img.shields.io/badge/Cite-BibTeX-red" style="vertical-align: sub;"></a></span>
     </th>
   </tr> 
 </table>
@@ -117,25 +117,14 @@ function copyToClipboard() {
     console.error('Could not copy text: ', err);
   });
 }
-
-function fetchBibtexContent(bibtexFilename) {
-  fetch(bibtexFilename)
-    .then(response => response.text())
-    .then(data => {
-      document.getElementById('bibtexContent').textContent = data;
-      // Show the modal
-      $('#citeModal').modal('show');
-    })
-    .catch(error => console.error('Error loading the citation:', error));
-}
   
 $(document).ready(function() {
-    $('.cite-modal').click(function(e) {
-        e.preventDefault();
-        var filename = $(this).data('filename');
-
-        fetchBibtexContent(bibtexFilename);
-    });
+  $('.cite-modal').click(function(e) { 
+		e.preventDefault(); 
+        var data = $(this).data('filename');
+        document.getElementById('bibtexContent').textContent = decodeURIComponent(data);
+        $('#citeModal').modal('show'); 
+  }); 
 });
   
 </script>
