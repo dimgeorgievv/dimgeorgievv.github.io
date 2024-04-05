@@ -119,19 +119,16 @@ $(document).ready(function() {
         var bibtexFilename = $(this).data('filename'); // Get the filename from data attribute
 
         // Update the modal's content based on the filename
-        fetchBibtexContent(bibtexFilename);
-    });
+        fetch(bibtexFilename)
+            .then(response => response.text())
+            .then(data => {
+              document.getElementById('bibtexContent').textContent = data;
+              // Show the modal
+              $('#citeModal').modal('show');
+            })
+            .catch(error => console.error('Error loading the citation:', error));
+        });
 });
-
-function fetchBibtexContent(bibtexFilename) {
-  fetch(bibtexFilename)
-    .then(response => response.text())
-    .then(data => {
-      document.getElementById('bibtexContent').textContent = data;
-      // Show the modal
-      $('#citeModal').modal('show');
-    })
-    .catch(error => console.error('Error loading the citation:', error));
-}
+  
 </script>
 
