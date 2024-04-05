@@ -117,20 +117,24 @@ function copyToClipboard() {
     console.error('Could not copy text: ', err);
   });
 }
+
+function fetchBibtexContent(bibtexFilename) {
+  fetch(bibtexFilename)
+    .then(response => response.text())
+    .then(data => {
+      document.getElementById('bibtexContent').textContent = data;
+      // Show the modal
+      $('#citeModal').modal('show');
+    })
+    .catch(error => console.error('Error loading the citation:', error));
+}
   
 $(document).ready(function() {
     $('.cite-modal').click(function(e) {
         e.preventDefault();
         var filename = $(this).data('filename');
 
-        fetch(bibtexFilename)
-        .then(response => response.text())
-        .then(data => {
-          document.getElementById('bibtexContent').textContent = data;
-          // Show the modal
-          $('#citeModal').modal('show');
-        })
-        .catch(error => console.error('Error loading the citation:', error));
+        fetchBibtexContent(bibtexFilename);
     });
 });
   
