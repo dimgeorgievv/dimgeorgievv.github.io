@@ -59,8 +59,6 @@ Selected publications
   </tr> 
 </table>
 
-https://img.shields.io/badge/Cite-BibTeX-red
-
 
 
 <table style="width:100%">
