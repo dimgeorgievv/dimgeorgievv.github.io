@@ -113,13 +113,10 @@ function copyToClipboard() {
 }
 
 $(document).ready(function() {
-    // Attach click event handlers to buttons with class 'js-cite-modal'
     $('.cite-modal').click(function(e) {
-        e.preventDefault(); // Prevent default anchor behaviour
-        var data = $(this).data('filename'); // Get the filename from data attribute
-
+        e.preventDefault();
+        var data = $(this).data('filename');
         document.getElementById('bibtexContent').textContent = data;
-        // Show the modal
         $('#citeModal').modal('show');
 });
   
