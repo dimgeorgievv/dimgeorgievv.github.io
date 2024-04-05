@@ -59,6 +59,7 @@ Selected publications
   </tr> 
 </table>
 
+https://img.shields.io/badge/Cite-BibTeX-red
 
 
 
@@ -71,8 +72,84 @@ Selected publications
             <span style="font-size:18px">Hyperspectral unmixing for Raman spectroscopy via physics-constrained autoencoders</span><br><br>
             <span style="font-size:16px">Dimitar Georgiev<span style="font-weight:normal">, Álvaro Fernández-Galiana, Simon Vilms Pedersen, Georgios Papadopoulos, Ruoxiao Xie, Molly M. Stevens, Mauricio Barahona </span></span><br><br>
              <span style="font-weight:normal;font-size:16px">Under review, 2024</span><br><br>
-            <span style="font-weight:normal;font-size:16px"><a href="https://arxiv.org/abs/2403.04526"><img src="https://img.shields.io/badge/Preprint-arXiv-b31b1b.svg" style="vertical-align: sub;"></a></span>
+            <span style="font-weight:normal;font-size:16px;vertical-align:sub;"><a href="https://arxiv.org/abs/2403.04526"><img src="https://img.shields.io/badge/Preprint-arXiv-b31b1b.svg" style="vertical-align: sub;"></a></span> <span style="font-weight:normal;font-size:16px;vertical-align:sub;"><a href="#" class="btn btn-outline-primary btn-page-header btn-sm cite-modal" data-filename="unmixing.bib"><img src="https://img.shields.io/badge/Cite-BibTeX-red" style="vertical-align: sub;"></a></span>
     </th>
   </tr> 
 </table>
+
+<div class="modal fade" id="citeModal" tabindex="-1" role="dialog" aria-labelledby="citeModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="citeModalLabel">BibTeX Citation</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre id="bibtexContent"></pre>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary" onclick="copyToClipboard()">Copy to Clipboard</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+function copyToClipboard() {
+  var bibtexContent = document.getElementById("bibtexContent").innerText;
+  navigator.clipboard.writeText(bibtexContent).then(function() {
+    var copyButton = document.querySelector('.btn-primary');
+    copyButton.textContent = 'Copied!';
+    copyButton.classList.add('btn-success');
+    copyButton.classList.remove('btn-primary');
+    setTimeout(function() {
+      copyButton.textContent = 'Copy to Clipboard';
+      copyButton.classList.add('btn-primary');
+      copyButton.classList.remove('btn-success');
+    }, 3000);
+  }, function(err) {
+    console.error('Could not copy text: ', err);
+  });
+}
+</script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  // Add click event listeners to each citation button
+  document.querySelectorAll('.cite-modal').forEach(button => {
+    button.addEventListener('click', function(e) {
+      e.preventDefault(); // Prevent the default anchor link behavior
+      var bibtexFilename = this.getAttribute('data-filename'); // Get the filename
+      loadModalAndCitation(bibtexFilename); // Load the citation modal
+    });
+  });
+});
+
+function loadModalAndCitation(bibtexFilename) {
+  // Check if the modal already exists in the DOM
+  if ($('#citeModal').length) {
+    // If the modal exists, just update the content
+    fetchBibtexContent(bibtexFilename);
+  } else {
+    // Load the modal HTML from citationModal.html
+    $('body').load('citationModal.html', function() {
+      // Fetch the BibTeX content and display the modal
+      fetchBibtexContent(bibtexFilename);
+    });
+  }
+}
+
+function fetchBibtexContent(bibtexFilename) {
+  fetch(bibtexFilename)
+    .then(response => response.text())
+    .then(data => {
+      document.getElementById('bibtexContent').textContent = data;
+      // Show the modal
+      $('#citeModal').modal('show');
+    })
+    .catch(error => console.error('Error loading the citation:', error));
+}
+</script>
 
