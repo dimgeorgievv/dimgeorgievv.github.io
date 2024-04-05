@@ -377,6 +377,10 @@ body:hover .visually-hidden button {
 }
 
 
+.modal-backdrop {
+  z-index: -1;
+}
+
 /*
    Footnotes
    ========================================================================== */
