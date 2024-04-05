@@ -38,7 +38,7 @@ Selected publications
             <span style="font-size:18px">Accelerating Molecular Graph Neural Networks via Knowledge Distillation</span><br><br>
             <span style="font-size:16px"><span style="font-weight:normal">Filip Ekström Kelvinius*,</span> Dimitar Georgiev*<span style="font-weight:normal">, Artur Petrov Toshev*, Johannes Gasteiger</span></span><br><br>
              <span style="font-weight:normal;font-size:16px">Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2023</span><br><br>
-            <span style="font-weight:normal;font-size:16px;vertical-align:sub;"><a href="https%3A%2F%2Fproceedings.neurips.cc%2Fpaper_files%2Fpaper%2F2023%2Fhash%2F51ec452ca04d8ec7160e5bbaf76153f6-Abstract-Conference.html"><img src="https://img.shields.io/badge/Paper-NeurIPS-916BA4" style="vertical-align: sub;"></a> <span style="vertical-align:sub;"><a class="github-button" href="https://github.com/gasteigerjo/ocp/blob/main/DISTILL.md" data-color-    scheme="no-preference: light; light: light; dark: dark;" aria-label="Code" style="vertical-align: sub;">Code</a></span> <a href="syns-ml.github.io/2023/assets/papers/67.pdf"><img src="https://img.shields.io/badge/Paper-SynS%26ML_%40_ICML-3B58AE" style="vertical-align: sub;"></a> <a href="https://openreview.net/forum?id=KWkzecJ4or"><img src="https://img.shields.io/badge/Paper-LOG_(oral)-013380" style="vertical-align: sub;"></a></span>
+            <span style="font-weight:normal;font-size:16px;vertical-align:sub;"><a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/51ec452ca04d8ec7160e5bbaf76153f6-Abstract-Conference.html"><img src="https://img.shields.io/badge/Paper-NeurIPS-916BA4" style="vertical-align: sub;"></a> <span style="vertical-align:sub;"><a class="github-button" href="https://github.com/gasteigerjo/ocp/blob/main/DISTILL.md" data-color-    scheme="no-preference: light; light: light; dark: dark;" aria-label="Code" style="vertical-align: sub;">Code</a></span> <a href="https://syns-ml.github.io/2023/assets/papers/67.pdf"><img src="https://img.shields.io/badge/Paper-SynS%26ML_%40_ICML-3B58AE" style="vertical-align: sub;"></a> <a href="https://openreview.net/forum?id=KWkzecJ4or"><img src="https://img.shields.io/badge/Paper-LOG_(oral)-013380" style="vertical-align: sub;"></a></span>
     </th>
   </tr> 
 </table>
@@ -71,7 +71,7 @@ Selected publications
             <span style="font-size:18px">Hyperspectral unmixing for Raman spectroscopy via physics-constrained autoencoders</span><br><br>
             <span style="font-size:16px">Dimitar Georgiev<span style="font-weight:normal">, Álvaro Fernández-Galiana, Simon Vilms Pedersen, Georgios Papadopoulos, Ruoxiao Xie, Molly M. Stevens, Mauricio Barahona </span></span><br><br>
              <span style="font-weight:normal;font-size:16px">Under review, 2024</span><br><br>
-            <span style="font-weight:normal;font-size:16px"><a href="https://arxiv.org/abs/2307.13650"><img src="https://img.shields.io/badge/Preprint-arXiv-b31b1b.svg" style="vertical-align: sub;"></a></span>
+            <span style="font-weight:normal;font-size:16px"><a href="https://arxiv.org/abs/2403.04526"><img src="https://img.shields.io/badge/Preprint-arXiv-b31b1b.svg" style="vertical-align: sub;"></a></span>
     </th>
   </tr> 
 </table>
