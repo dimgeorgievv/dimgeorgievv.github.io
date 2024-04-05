@@ -118,6 +118,7 @@ $(document).ready(function() {
         var data = $(this).data('filename');
         document.getElementById('bibtexContent').textContent = data;
         $('#citeModal').modal('show');
+    });
 });
   
 </script>
