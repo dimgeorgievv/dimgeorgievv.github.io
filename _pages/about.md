@@ -11,7 +11,7 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
 
 <div class="row">
       <div class="col-md-5">
-        <h3>Interests</h3>
+        <h3 style="font-size:22px;border-bottom:0.5px solid #e6e3e3;">Interests</h3>
         <ul class="ul-interests">          
           <li>Deep learning</li>          
           <li>ML for chemometrics</li>          
@@ -22,21 +22,21 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
         </ul>
       </div>
       <div class="col-md-7">
-        <h3>Education</h3>
+        <h3 style="font-size:22px;border-bottom:0.5px solid #e6e3e3;">Education</h3>
         <ul class="ul-edu fa-ul">
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
-              <p class="course">PhD in AI & ML, Oct 2021 - <i>Present</i></p>
-              <p class="institution" style="color:#666666;font-weight:normal;font-size:14px">Imperial College London, UK</p>
+              <p class="course" style="margin-bottom:5px">PhD in AI & ML, Oct 2021 - <i>Present</i></p>
+              <p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;">Imperial College London, UK</p>
             </div>
           </li>
 	  <br>
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
-              <p class="course">MMath in Mathematics, Sep 2017 - Jul 2021</p>
-              <p class="institution" style="color:#666666;font-weight:normal;font-size:14px">University of Southampton, UK</p>
+              <p class="course" style="margin-bottom:5px">MMath in Mathematics, Sep 2017 - Jul 2021</p>
+              <p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;">University of Southampton, UK</p>
             </div>
           </li>
         </ul>
@@ -46,8 +46,8 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
 <br>
 
 
-Recent highlights
-------
+
+<h3 style="font-size:22px;border-bottom:0.5px solid #e6e3e3;">Recent highlights</h3>
 
 ###### 2024:
 - ***March:*** Started a new position as an Academic Visitor at University of Oxford.
@@ -64,8 +64,9 @@ Recent highlights
 
 <br>
 
-Selected publications
-------
+
+<h3 style="font-size:22px;border-bottom:0.5px solid #e6e3e3;">Selected publications</h3>
+
 <table style="width:100%">
   <tr>
     <th width="30%">
