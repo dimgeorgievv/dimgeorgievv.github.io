@@ -10,8 +10,8 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
 <br>
 
 <div class="row">
-      <div class="col-md-5">
-        <h3 style="font-size:22px;border-bottom:0.5px solid #e6e3e3;">Interests</h3>
+      <div class="col-md-4">
+        <h3 style="font-size:24px;border-bottom:0.5px solid #e6e3e3;">Interests</h3>
         <ul class="ul-interests">          
           <li>Deep learning</li>          
           <li>ML for chemometrics</li>          
@@ -22,7 +22,7 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
         </ul>
       </div>
       <div class="col-md-7">
-        <h3 style="font-size:22px;border-bottom:0.5px solid #e6e3e3;">Education</h3>
+        <h3 style="font-size:24px;border-bottom:0.5px solid #e6e3e3;">Education</h3>
         <ul class="ul-edu fa-ul">
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
@@ -47,7 +47,7 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
 
 
 
-<h3 style="font-size:22px;border-bottom:0.5px solid #e6e3e3;">Recent highlights</h3>
+<h3 style="font-size:24px;border-bottom:0.5px solid #e6e3e3;">Recent highlights</h3>
 
 ###### 2024:
 - ***March:*** Started a new position as an Academic Visitor at University of Oxford.
@@ -65,7 +65,7 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
 <br>
 
 
-<h3 style="font-size:22px;border-bottom:0.5px solid #e6e3e3;">Selected publications</h3>
+<h3 style="font-size:24px;border-bottom:0.5px solid #e6e3e3;">Selected publications</h3>
 
 <table style="width:100%">
   <tr>
