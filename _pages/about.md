@@ -21,8 +21,8 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
           <li>Software</li>
         </ul>
       </div>
-      <div class="col-md-2"></div>
-      <div class="col-md-5">
+      <div class="col-md-1"></div>
+      <div class="col-md-6">
         <h3 style="font-size:24px;border-bottom: 1px solid #dcdcdc;margin-bottom:20px;">Education</h3>
         <ul class="ul-edu fa-ul">
           <li>
