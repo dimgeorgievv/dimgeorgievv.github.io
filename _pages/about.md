@@ -27,8 +27,8 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
-              <p class="course">PhD in AI & ML, Oct 2021 - <i>Present</i>i></p>
-              <p class="institution">Imperial College London, UK</p>
+              <p class="course">PhD in AI & ML, Oct 2021 - <i>Present</i></p>
+              <p class="institution" style="color:666666;font-weight:normal;font-size:14px">Imperial College London, UK</p>
             </div>
           </li>
           <li>
