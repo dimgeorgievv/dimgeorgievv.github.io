@@ -9,6 +9,42 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
 
 <br>
 
+<div class="row">
+      <div class="col-md-5">
+        <h3>Interests</h3>
+        <ul class="ul-interests">          
+          <li>Deep learning</li>          
+          <li>ML for chemometrics</li>          
+          <li>ML for molecules</li>          
+          <li>AI for science</li>        
+          <li>AI for healthcare</li>              
+          <li>Software</li>
+        </ul>
+      </div>
+      <div class="col-md-7">
+        <h3>Education</h3>
+        <ul class="ul-edu fa-ul">
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">PhD in AI & ML, Oct 2021 - <i>Present</i>i></p>
+              <p class="institution">Imperial College London, UK</p>
+            </div>
+          </li>
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">MMath in Mathematics, Sep 2017 - Jul 2021</p>
+              <p class="institution">University of Southampton, UK</p>
+            </div>
+          </li>
+        </ul>
+      </div>
+</div>
+
+<br>
+
+
 Recent highlights
 ------
 
