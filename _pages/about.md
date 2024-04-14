@@ -28,16 +28,18 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
-              <p class="course" style="margin-bottom:5px">PhD in AI & ML, Oct 2021 - <i>Present</i></p>
-              <p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;">Imperial College London, UK</p>
+              <p class="course" style="margin-bottom:5px">PhD in AI & ML</p>
+              <p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">Imperial College London, UK</p>
+	    	<p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;">Oct 2021 - Present</p>
             </div>
           </li>
 	  <br>
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
-              <p class="course" style="margin-bottom:5px">MMath in Mathematics, Sep 2017 - Jul 2021</p>
-              <p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;">University of Southampton, UK</p>
+              <p class="course" style="margin-bottom:5px">MMath in Mathematics</p>
+              <p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">University of Southampton, UK</p>		    
+	      <p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;">Sep 2017 - Jul 2021</p>
             </div>
           </li>
         </ul>
