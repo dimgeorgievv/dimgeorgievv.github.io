@@ -53,7 +53,7 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
 <h3 style="font-size:24px;border-bottom: 1px solid #dcdcdc;margin-bottom:20px;">Recent highlights</h3>
 
 ###### 2024:
-- ***March:*** Started a new position as an Academic Visitor at University of Oxford.
+- ***March:*** Joined the University of Oxford as an Academic Visitor.
 - ***March:*** Our preprint titled *"Hyperspectral unmixing for Raman spectroscopy via physics-constrained autoencoders"* is [out](https://arxiv.org/abs/2403.04526).
 
 ###### 2023:
@@ -134,6 +134,8 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
     </div>
   </div>
 </div>
+
+My complete, up-to-date publication record is available on [Google Scholar](https://scholar.google.com/citations?user=v9OuyKAAAAAJ&hl=en).
 
 <style>
 .modal-backdrop {
