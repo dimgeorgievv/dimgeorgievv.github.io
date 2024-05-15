@@ -91,7 +91,7 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
 <table style="width:100%">
   <tr>
     <th width="30%">
-      <img class="zoom-in-img" src="../files/raman_logo_.png" width="350"/>
+      <img class="zoom-in-img" src="../files/ramanspy_toc.jpeg" width="350"/>
     </th>
     <th style="text-align:left" width="70%">
             <span style="font-size:18px">RamanSPy: An open-source Python package for integrative Raman spectroscopy data analysis</span><br><br>
