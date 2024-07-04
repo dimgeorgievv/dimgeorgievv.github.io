@@ -132,7 +132,7 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
 	    <ul style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;">
 		    <li>AI for Science Workshop at International Conference on Machine Learning (oral), 2024</li>
 		    <li>Machine Learning for Life and Material Science Workshop at International Conference on Machine Learning, 2024</li>
-		    <li>BioMedEng24 Conference, 2024</li>
+		    <li>BioMedEng24 Conference (oral), 2024</li>
 	</ul>
     </th>
   </tr> 
