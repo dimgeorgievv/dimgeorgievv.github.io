@@ -53,6 +53,8 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
 <h3 style="font-size:24px;border-bottom: 1px solid #dcdcdc;margin-bottom:20px;">Recent highlights</h3>
 
 ###### 2024:
+- ***September:*** Presented our work *"Hyperspectral unmixing for Raman spectroscopy via physics-constrained autoencoders"* at BioMedEng24 conference in London.
+- ***September:*** Presented *RamanSPy* at BioMedEng24 conference in London.
 - ***July:*** Presented our work *"Hyperspectral unmixing for Raman spectroscopy via physics-constrained autoencoders"* at the AI4Science (oral) and ML4LMS workshops at ICML 2024 in Vienna.
 - ***July:*** Presented *RamanSPy* at the AI4Science and ML4LMS workshops at ICML 2024 in Vienna.
 - ***June:*** Presented our work *"Accelerating Molecular Graph Neural Networks via Knowledge Distillation"* at MoML 2024 in Montreal.
@@ -112,9 +114,6 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
 	    <ul style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;">
 		    <li>AI for Science Workshop at International Conference on Machine Learning, 2024</li>
 		    <li>Machine Learning for Life and Material Science Workshop at International Conference on Machine Learning, 2024</li>
-	</ul>
-	    <span style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;">This work will also be presented at:</span>
-	    <ul style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;">
 		    <li>BioMedEng24 Conference, 2024</li>
 	</ul>
     </th>
@@ -137,9 +136,6 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
 	    <ul style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;">
 		    <li>AI for Science Workshop at International Conference on Machine Learning (oral), 2024</li>
 		    <li>Machine Learning for Life and Material Science Workshop at International Conference on Machine Learning, 2024</li>
-	</ul>
-	    <span style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;">This work will also be presented at:</span>
-	    <ul style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;">
 		    <li>BioMedEng24 Conference (oral), 2024</li>
 	</ul>
     </th>
