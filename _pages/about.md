@@ -53,11 +53,11 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
 <h3 style="font-size:24px;border-bottom: 1px solid #dcdcdc;margin-bottom:20px;">Recent highlights</h3>
 
 ###### 2024:
-- ***September:*** Presented our work *"Hyperspectral unmixing for Raman spectroscopy via physics-constrained autoencoders"* at BioMedEng24 conference in London.
-- ***September:*** Presented *RamanSPy* at BioMedEng24 conference in London.
-- ***July:*** Presented our work *"Hyperspectral unmixing for Raman spectroscopy via physics-constrained autoencoders"* at the AI4Science (oral) and ML4LMS workshops at ICML 2024 in Vienna.
-- ***July:*** Presented *RamanSPy* at the AI4Science and ML4LMS workshops at ICML 2024 in Vienna.
-- ***June:*** Presented our work *"Accelerating Molecular Graph Neural Networks via Knowledge Distillation"* at MoML 2024 in Montreal.
+- ***September:*** [Presented](https://x.com/dimgeorgievv/status/1833065585275531341) our work *"Hyperspectral unmixing for Raman spectroscopy via physics-constrained autoencoders"* at BioMedEng24 conference in London.
+- ***September:*** [Presented](https://x.com/dimgeorgievv/status/1833065585275531341) *RamanSPy* at BioMedEng24 conference in London.
+- ***July:*** [Presented](https://x.com/dimgeorgievv/status/1818281625140056537) our work *"Hyperspectral unmixing for Raman spectroscopy via physics-constrained autoencoders"* at the AI4Science (oral) and ML4LMS workshops at ICML 2024 in Vienna.
+- ***July:*** [Presented](https://x.com/dimgeorgievv/status/1818281625140056537) *RamanSPy* at the AI4Science and ML4LMS workshops at ICML 2024 in Vienna.
+- ***June:*** [Presented](https://ai4health.io/wp-content/uploads/2024/08/Dimitar-montreal-768x1024.jpeg) our work *"Accelerating Molecular Graph Neural Networks via Knowledge Distillation"* at MoML 2024 in Montreal.
 - ***June:*** Participated in the [ML for Drug Discovery Summer School](https://portal.ml4dd.com/summerschool).
 - ***May:*** Our work *"RamanSPy: An open-source Python package for integrative Raman spectroscopy data analysis"* has been [accepted](https://doi.org/10.1021/acs.analchem.4c00383) to Analytical Chemistry.
 - ***March:*** Joined the University of Oxford as an Academic Visitor.
