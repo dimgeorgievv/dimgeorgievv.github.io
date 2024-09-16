@@ -59,7 +59,7 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
 - ***July:*** [Presented](https://x.com/dimgeorgievv/status/1818281625140056537) *RamanSPy* at the AI4Science and ML4LMS workshops at ICML 2024 in Vienna.
 - ***June:*** [Presented](https://ai4health.io/wp-content/uploads/2024/08/Dimitar-montreal-768x1024.jpeg) our work *"Accelerating Molecular Graph Neural Networks via Knowledge Distillation"* at MoML 2024 in Montreal.
 - ***June:*** Participated in the [ML for Drug Discovery Summer School](https://portal.ml4dd.com/summerschool).
-- ***May:*** Our work *"RamanSPy: An open-source Python package for integrative Raman spectroscopy data analysis"* has been [accepted](https://doi.org/10.1021/acs.analchem.4c00383) to Analytical Chemistry.
+- ***May:*** Our work *"RamanSPy: An open-source Python package for integrative Raman spectroscopy data analysis"* [published](https://doi.org/10.1021/acs.analchem.4c00383) in Analytical Chemistry.
 - ***March:*** Joined the University of Oxford as an Academic Visitor.
 - ***March:*** Our [preprint](https://arxiv.org/abs/2403.04526) titled *"Hyperspectral unmixing for Raman spectroscopy via physics-constrained autoencoders"* is out.
 
