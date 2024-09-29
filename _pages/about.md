@@ -138,14 +138,14 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
 <h6>December:</h6>
 
 <ul style="margin-bottom:.5em">
-    <li style="margin-bottom:0em">🪧 Poster presentation at NeurIPS'24</li>
+    <li style="margin-bottom:0em">🪧 Poster presentation at NeurIPS'23</li>
 <p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
           <b>Title: </b><i>Accelerating Molecular Graph Neural Networks via Knowledge Distillation</i><br>📍New Orleans, USA</p>
 </ul>
 
 <h6>November:</h6>
 <ul style="margin-bottom:.5em">
-    <li style="margin-bottom:0em">🎤 Oral presentation at LoG'24</li>
+    <li style="margin-bottom:0em">🎤 Oral presentation at LoG'23</li>
 <p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
           <b>Title: </b><i>Accelerating Molecular Graph Neural Networks via Knowledge Distillation</i><br>📍virtual</p>
 </ul>
