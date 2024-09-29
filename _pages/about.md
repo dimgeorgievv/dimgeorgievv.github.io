@@ -52,25 +52,138 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
 
 <h3 style="font-size:24px;border-bottom: 1px solid #dcdcdc;margin-bottom:20px;">Recent highlights</h3>
 
-###### 2024:
-- ***September:*** [Presented](https://x.com/dimgeorgievv/status/1833065585275531341) our work *"Hyperspectral unmixing for Raman spectroscopy via physics-constrained autoencoders"* at BioMedEng24 conference in London.
-- ***September:*** [Presented](https://x.com/dimgeorgievv/status/1833065585275531341) *RamanSPy* at BioMedEng24 conference in London.
-- ***July:*** [Presented](https://x.com/dimgeorgievv/status/1818281625140056537) our work *"Hyperspectral unmixing for Raman spectroscopy via physics-constrained autoencoders"* at the AI4Science (oral) and ML4LMS workshops at ICML 2024 in Vienna.
-- ***July:*** [Presented](https://x.com/dimgeorgievv/status/1818281625140056537) *RamanSPy* at the AI4Science and ML4LMS workshops at ICML 2024 in Vienna.
-- ***June:*** [Presented](https://ai4health.io/wp-content/uploads/2024/08/Dimitar-montreal-768x1024.jpeg) our work *"Accelerating Molecular Graph Neural Networks via Knowledge Distillation"* at MoML 2024 in Montreal.
-- ***June:*** Participated in the [ML for Drug Discovery Summer School](https://portal.ml4dd.com/summerschool).
-- ***May:*** Our work *"RamanSPy: An open-source Python package for integrative Raman spectroscopy data analysis"* [published](https://doi.org/10.1021/acs.analchem.4c00383) in Analytical Chemistry.
-- ***March:*** Joined the University of Oxford as an Academic Visitor.
-- ***March:*** Our [preprint](https://arxiv.org/abs/2403.04526) titled *"Hyperspectral unmixing for Raman spectroscopy via physics-constrained autoencoders"* is out.
 
-###### 2023:
-- ***December:*** [Presented](https://www.linkedin.com/feed/update/urn:li:activity:7142448038714699776/) our work *"Accelerating Molecular Graph Neural Networks via Knowledge Distillation"* at NeurIPS 2023 in New Orleans.
-- ***November:*** Our work *"Accelerating Molecular Graph Neural Networks via Knowledge Distillation"* has been [accepted (oral)](https://logconference.org) to the Learning on Graphs (LoG) Conference 2023.
-- ***September:*** Our work *"Accelerating Molecular Graph Neural Networks via Knowledge Distillation"* has been [accepted](https://nips.cc/virtual/2023/poster/72565) to the Conference on Neural Information Processing Systems (NeurIPS) 2023.
-- ***July:*** Our work *"Accelerating Molecular Graph Neural Networks via Knowledge Distillation"* has been [accepted](https://syns-ml.github.io/2023/contributions/) to the Synergy of Scientific and Machine Learning Modeling workshop at the International Conference on Machine Learning (ICML) 2023.
-- ***July:*** Our [preprint](https://arxiv.org/abs/2307.13650) on RamanSPy is out.
-- ***June:*** We introduce [RamanSPy](https://ramanspy.readthedocs.io) - an open-source Python package for integrative Raman spectroscopy data analysis.
-- ***June:*** Our [preprint](https://arxiv.org/abs/2306.14818) titled *"Accelerating Molecular Graph Neural Networks via Knowledge Distillation"* is out.
+<h6>2024:</h6>
+
+<ul>
+
+<h6>September:</h6>
+
+ <ul style="margin-bottom:.5em">
+    <li style="margin-bottom:0em">🎤 Oral presentation at BioMedEng24</li>
+<p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
+          <b>Title: </b><i>Hyperspectral unmixing for Raman spectroscopy via physics-constrained autoencoders</i><br>📍London, UK</p>
+</ul>
+<ul style="margin-bottom:.5em">
+    <li style="margin-bottom:0em">🪧 Poster presentation at BioMedEng24</li>
+<p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
+          <b>Title: </b><i>RamanSPy: Augmentic Raman spectroscopy analytics with AI</i><br>📍London, UK</p>
+</ul> 
+
+<h6>July:</h6>
+<ul style="margin-bottom:.5em">
+    <li style="margin-bottom:0em">🎤 Oral presentation at AI4Science workshop at ICML'24</li>
+<p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
+          <b>Title: </b><i>Hyperspectral unmixing for Raman spectroscopy via physics-constrained autoencoders</i><br>📍Vienna, Austria</p>
+</ul>
+<ul style="margin-bottom:.5em">
+    <li style="margin-bottom:0em">🪧 Poster presentation at AI4Science workshop at ICML'24</li>
+<p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
+          <b>Title: </b><i>RamanSPy: Augmenting Raman spectroscopy data analysis with AI</i><br>📍Vienna, Austria</p>
+</ul> 
+<ul style="margin-bottom:.5em">
+    <li style="margin-bottom:0em">🪧 Poster presentation at ML4LMS workshop at ICML'24</li>
+<p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
+          <b>Title: </b><i>Hyperspectral unmixing for Raman spectroscopy via physics-constrained autoencoders</i><br>📍Vienna, Austria</p>
+</ul>
+<ul style="margin-bottom:.5em">
+    <li style="margin-bottom:0em">🪧 Poster presentation at ML4LMS workshop at ICML'24</li>
+<p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
+          <b>Title: </b><i>RamanSPy: Augmenting Raman spectroscopy data analysis with AI</i><br>📍Vienna, Austria</p>
+</ul>	
+
+<h6>June:</h6>
+<ul style="margin-bottom:.5em">
+    <li style="margin-bottom:0em">🪧 Poster presentation at MoML'24</li>
+<p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
+          <b>Title: </b><i>Accelerating Molecular Graph Neural Networks via Knowledge Distillation</i><br>📍Montreal, Canada</p>
+</ul>
+<ul style="margin-bottom:.5em">
+    <li style="margin-bottom:0em">🏫 Participated in the ML for Drug Discovery Summer School</li>
+<p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
+        📍Montreal, Canada</p>
+</ul> 
+
+<h6>May:</h6>
+<ul style="margin-bottom:.5em">
+    <li style="margin-bottom:0em">📄 Paper accepted to Analytical Chemistry</li>
+<p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
+          <b>Title: </b><i>RamanSPy: An open-source Python package for integrative Raman spectroscopy data analysis</i></p>
+</ul>
+
+<ul style="margin-bottom:.5em">
+    <li style="margin-bottom:0em">🪧 Poster presentation at CAI4H'24</li>
+<p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
+          <b>Title: </b><i>Hyperspectral unmixing for Raman spectroscopy via physics-constrained autoencoders</i><br>📍Edinburgh, UK</p>
+</ul>
+
+<h6>March:</h6>
+<ul style="margin-bottom:.5em">
+    <li style="margin-bottom:0em">🏛️ Joined University of Oxford as Academic Visitor</li>
+<p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
+        📍Oxford, UK</p>
+</ul>
+<ul style="margin-bottom:.5em">
+    <li style="margin-bottom:0em">📝 New preprint is out</li>
+<p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
+          <b>Title: </b><i>Hyperspectral unmixing for Raman spectroscopy via physics-constrained autoencoders</i></p>
+</ul>	
+
+</ul>
+
+<h6>2023:</h6>
+
+<ul>
+
+<h6>December:</h6>
+
+<ul style="margin-bottom:.5em">
+    <li style="margin-bottom:0em">🪧 Poster presentation at NeurIPS'24</li>
+<p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
+          <b>Title: </b><i>Accelerating Molecular Graph Neural Networks via Knowledge Distillation</i><br>📍New Orleans, USA</p>
+</ul>
+
+<h6>November:</h6>
+<ul style="margin-bottom:.5em">
+    <li style="margin-bottom:0em">🎤 Oral presentation at LoG'24</li>
+<p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
+          <b>Title: </b><i>Accelerating Molecular Graph Neural Networks via Knowledge Distillation</i><br>📍virtual</p>
+</ul>
+
+<h6>July:</h6>
+<ul style="margin-bottom:.5em">
+    <li style="margin-bottom:0em">🪧 Poster presentation at SynS&ML workshop at ICML'23</li>
+<p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
+          <b>Title: </b><i>Accelerating Molecular Graph Neural Networks via Knowledge Distillation</i><br>📍Hawaii, USA</p>
+</ul>
+<ul style="margin-bottom:.5em">
+    <li style="margin-bottom:0em">📝 New preprint is out</li>
+<p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
+          <b>Title: </b><i>RamanSPy: An open-source Python package for integrative Raman spectroscopy data analysis</i></p>
+</ul>
+
+<h6>June:</h6>
+<ul style="margin-bottom:.5em">
+    <li style="margin-bottom:0em">💻 New Python package is out</li>
+<p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
+          <b>Scope: </b><i>Raman spectroscopy data analytics</i></p>
+</ul>
+<ul style="margin-bottom:.5em">
+    <li style="margin-bottom:0em">📝 New preprint is out</li>
+<p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
+          <b>Title: </b><i>Accelerating Molecular Graph Neural Networks via Knowledge Distillation</i></p>
+</ul>
+
+<h6>May:</h6>
+<ul style="margin-bottom:.5em">
+    <li style="margin-bottom:0em">🪧 Poster presentation at CAI4H'23</li>
+<p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
+          <b>Title: </b><i>Cell phenotyping via hyperspectral unmixing autoencoders</i><br>📍York, UK</p>
+</ul>
+
+
+</ul>
+
 
 <br>
 
