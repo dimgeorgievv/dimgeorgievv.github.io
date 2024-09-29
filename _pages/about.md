@@ -150,6 +150,13 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
           <b>Title: </b><i>Accelerating Molecular Graph Neural Networks via Knowledge Distillation</i><br>📍virtual</p>
 </ul>
 
+<h6>September:</h6>
+<ul style="margin-bottom:.5em">
+    <li style="margin-bottom:0em">📄 Paper accepted to NeurIPS'23</li>
+<p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
+          <b>Title: </b><i>Accelerating Molecular Graph Neural Networks via Knowledge Distillation</i></p>
+</ul>
+
 <h6>July:</h6>
 <ul style="margin-bottom:.5em">
     <li style="margin-bottom:0em">🪧 Poster presentation at SynS&ML workshop at ICML'23</li>
