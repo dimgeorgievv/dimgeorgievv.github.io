@@ -62,19 +62,19 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
  <ul style="margin-bottom:.5em">
     <li style="margin-bottom:0em">🎤 Oral presentation at BioMedEng24</li>
 <p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
-          <b>Title: </b><i>Hyperspectral unmixing for Raman spectroscopy via physics-constrained autoencoders</i><br>📍London, UK</p>
+          <b>Title: </b><i>Hyperspectral Unmixing for Raman Spectroscopy via Physics-Constrained Autoencoders</i><br>📍London, UK</p>
 </ul>
 <ul style="margin-bottom:.5em">
     <li style="margin-bottom:0em">🪧 Poster presentation at BioMedEng24</li>
 <p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
-          <b>Title: </b><i>RamanSPy: Augmentic Raman spectroscopy analytics with AI</i><br>📍London, UK</p>
+          <b>Title: </b><i>RamanSPy: An Open-Source Python Package for Raman Spectroscopy Data Analysis</i><br>📍London, UK</p>
 </ul> 
 
 <h6>July:</h6>
 <ul style="margin-bottom:.5em">
     <li style="margin-bottom:0em">🎤 Oral presentation at AI4Science workshop at ICML'24</li>
 <p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
-          <b>Title: </b><i>Hyperspectral unmixing for Raman spectroscopy via physics-constrained autoencoders</i><br>📍Vienna, Austria</p>
+          <b>Title: </b><i>Hyperspectral Unmixing for Raman Spectroscopy via Physics-Constrained Autoencoders</i><br>📍Vienna, Austria</p>
 </ul>
 <ul style="margin-bottom:.5em">
     <li style="margin-bottom:0em">🪧 Poster presentation at AI4Science workshop at ICML'24</li>
@@ -84,7 +84,7 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
 <ul style="margin-bottom:.5em">
     <li style="margin-bottom:0em">🪧 Poster presentation at ML4LMS workshop at ICML'24</li>
 <p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
-          <b>Title: </b><i>Hyperspectral unmixing for Raman spectroscopy via physics-constrained autoencoders</i><br>📍Vienna, Austria</p>
+          <b>Title: </b><i>Hyperspectral Unmixing for Raman Spectroscopy via Physics-Constrained Autoencoders</i><br>📍Vienna, Austria</p>
 </ul>
 <ul style="margin-bottom:.5em">
     <li style="margin-bottom:0em">🪧 Poster presentation at ML4LMS workshop at ICML'24</li>
@@ -108,13 +108,13 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
 <ul style="margin-bottom:.5em">
     <li style="margin-bottom:0em">📄 Paper published in Analytical Chemistry</li>
 <p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
-          <b>Title: </b><i>RamanSPy: An open-source Python package for integrative Raman spectroscopy data analysis</i></p>
+          <b>Title: </b><i>RamanSPy: An Open-Source Python Package for Integrative Raman Spectroscopy Data Analysis</i></p>
 </ul>
 
 <ul style="margin-bottom:.5em">
     <li style="margin-bottom:0em">🪧 Poster presentation at CAI4H'24</li>
 <p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
-          <b>Title: </b><i>Hyperspectral unmixing for Raman spectroscopy via physics-constrained autoencoders</i><br>📍Edinburgh, UK</p>
+          <b>Title: </b><i>Hyperspectral Unmixing for Raman Spectroscopy via Physics-Constrained Autoencoders</i><br>📍Edinburgh, UK</p>
 </ul>
 
 <h6>March:</h6>
@@ -126,7 +126,7 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
 <ul style="margin-bottom:.5em">
     <li style="margin-bottom:0em">📝 New preprint is out</li>
 <p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
-          <b>Title: </b><i>Hyperspectral unmixing for Raman spectroscopy via physics-constrained autoencoders</i></p>
+          <b>Title: </b><i>Hyperspectral Unmixing for Raman Spectroscopy via Physics-Constrained Autoencoders</i></p>
 </ul>	
 
 </ul>
@@ -166,7 +166,7 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
 <ul style="margin-bottom:.5em">
     <li style="margin-bottom:0em">📝 New preprint is out</li>
 <p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
-          <b>Title: </b><i>RamanSPy: An open-source Python package for integrative Raman spectroscopy data analysis</i></p>
+          <b>Title: </b><i>RamanSPy: An Open-Source Python Package for Integrative Raman Spectroscopy Data Analysis</i></p>
 </ul>
 
 <h6>June:</h6>
