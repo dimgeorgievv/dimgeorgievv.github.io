@@ -106,7 +106,7 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
 
 <h6>May:</h6>
 <ul style="margin-bottom:.5em">
-    <li style="margin-bottom:0em">📄 Paper accepted to Analytical Chemistry</li>
+    <li style="margin-bottom:0em">📄 Paper published in Analytical Chemistry</li>
 <p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
           <b>Title: </b><i>RamanSPy: An open-source Python package for integrative Raman spectroscopy data analysis</i></p>
 </ul>
