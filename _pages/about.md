@@ -57,6 +57,13 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
 
 <ul>
 
+<h6>October:</h6>
+<ul style="margin-bottom:.5em">
+    <li style="margin-bottom:0em">📄 Paper published in PNAS</li>
+<p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
+          <b>Title: </b><i>Hyperspectral unmixing for Raman spectroscopy via physics-constrained autoencoders</i></p>
+</ul>
+
 <h6>September:</h6>
 
  <ul style="margin-bottom:.5em">
@@ -200,25 +207,22 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
 <table style="width:100%">
   <tr>
     <th width="30%">
-      <img class="zoom-in-img" src="../files/gnns_kd_abstract.png" width="350"/>
+      <img class="zoom-in-img" src="../files/unmixing_aes.png" width="350"/>
     </th>
     <th style="text-align:left" width="70%">
-            <span style="font-size:18px">Accelerating Molecular Graph Neural Networks via Knowledge Distillation</span><br><br>
-            <span style="font-size:16px"><span style="font-weight:normal">Filip Ekström Kelvinius*,</span> Dimitar Georgiev*<span style="font-weight:normal">, Artur Petrov Toshev*, Johannes Gasteiger</span></span>
-	    <p style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;">*Equal contribution. Order was determined by rolling a dice.</p>
-             <span style="font-weight:normal;font-size:16px">Conference on Neural Information Processing Systems (NeurIPS), 2023</span><br><br>
-            <span style="font-weight:normal;font-size:16px;vertical-align:sub;"><a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/51ec452ca04d8ec7160e5bbaf76153f6-Abstract-Conference.html"><img src="https://img.shields.io/badge/Paper-NeurIPS-916BA4" style="vertical-align: sub;"></a> <a href="#" class="cite-modal" data-toggle="modal" data-target="#citeModal" data-filename="@inproceedings%7BNEURIPS2023_51ec452c,%0A%20author%20%3D%20%7BEkstr%5C%22%7Bo%7Dm%20Kelvinius,%20Filip%20and%20Georgiev,%20Dimitar%20and%20Toshev,%20Artur%20and%20Gasteiger,%20Johannes%7D,%0A%20booktitle%20%3D%20%7BAdvances%20in%20Neural%20Information%20Processing%20Systems%7D,%0A%20editor%20%3D%20%7BA.%20Oh%20and%20T.%20Neumann%20and%20A.%20Globerson%20and%20K.%20Saenko%20and%20M.%20Hardt%20and%20S.%20Levine%7D,%0A%20pages%20%3D%20%7B25761--25792%7D,%0A%20publisher%20%3D%20%7BCurran%20Associates,%20Inc.%7D,%0A%20title%20%3D%20%7BAccelerating%20Molecular%20Graph%20Neural%20Networks%20via%20Knowledge%20Distillation%7D,%0A%20url%20%3D%20%7Bhttps%3A//proceedings.neurips.cc/paper_files/paper/2023/file/51ec452ca04d8ec7160e5bbaf76153f6-Paper-Conference.pdf%7D,%0A%20volume%20%3D%20%7B36%7D,%0A%20year%20%3D%20%7B2023%7D%0A%7D"><img src="https://img.shields.io/badge/Cite-BibTeX-red" style="vertical-align: sub;"></a> <span style="vertical-align:sub;"><a class="github-button" href="https://github.com/gasteigerjo/ocp/blob/main/DISTILL.md" data-color-    scheme="no-preference: light; light: light; dark: dark;" aria-label="Code" style="vertical-align: sub;">Code</a></span></span><br><br>
+            <span style="font-size:18px">Hyperspectral unmixing for Raman spectroscopy via physics-constrained autoencoders</span><br><br>
+            <span style="font-size:16px">Dimitar Georgiev<span style="font-weight:normal">, Álvaro Fernández-Galiana, Simon Vilms Pedersen, Georgios Papadopoulos, Ruoxiao Xie, Molly M. Stevens, Mauricio Barahona </span></span><br><br>
+             <span style="font-weight:normal;font-size:16px">Proceedings of the National Academy of Sciences of the United States of America (PNAS), 2024</span><br><br>
+            <span style="font-weight:normal;font-size:16px;vertical-align:sub;"><a href="https://doi.org/10.1073/pnas.2407439121"><img src="https://img.shields.io/badge/Paper-PNAS-0175c9.svg" style="vertical-align: sub;"></a> <a href="#" class="cite-modal" data-toggle="modal" data-target="#citeModal" data-filename="@article%7Bgeorgiev2024hyperspectral,%0A%20%20title=%7BHyperspectral%20unmixing%20for%20Raman%20spectroscopy%20via%20physics-constrained%20autoencoders%7D,%0A%20%20author=%7BGeorgiev,%20Dimitar%20and%20Fern{\'a}ndez-Galiana,%20Alvaro%20and%20Pedersen,%20Simon%20Vilms%20and%20Papadopoulos,%20Georgios%20and%20Xie,%20Ruoxiao%20and%20Stevens,%20Molly%20M%20and%20Barahona,%20Mauricio%7D,%0A%20%20journal=%7BProceedings%20of%20the%20National%20Academy%20of%20Sciences%7D,%0A%20%20volume=%7B121%7D,%0A%20%20number=%7B45%7D,%0A%20%20pages=%7Be2407439121%7D,%0A%20%20doi=%7B10.1073/pnas.2407439121%7D,%0A%20%20year=%7B2024%7D%0A%7D"><img src="https://img.shields.io/badge/Cite-BibTeX-red" style="vertical-align: sub;"></a></span><span style="vertical-align:sub;"><a class="github-button" href="https://github.com/barahona-research-group/raman-unmixing-aes" data-color-    scheme="no-preference: light; light: light; dark: dark;" aria-label="Code" style="vertical-align: sub;">Code</a></span> <br><br>
 	    <span style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;">This work has also been presented at:</span>
 	    <ul style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;">
-		    <li>Synergy of Scientific and Machine Learning Modeling Workshop at International Conference on Machine Learning, 2023</li>
-		    <li>Learning on Graphs Conference (oral), 2023</li>
-		    <li>Molecular Machine Learning Conference, 2024</li>
+		    <li>AI for Science Workshop at International Conference on Machine Learning (oral), 2024</li>
+		    <li>Machine Learning for Life and Material Science Workshop at International Conference on Machine Learning, 2024</li>
+		    <li>BioMedEng24 Conference (oral), 2024</li>
 	</ul>
     </th>
   </tr> 
 </table>
-
-
 
 <table style="width:100%">
   <tr>
@@ -240,23 +244,22 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
   </tr> 
 </table>
 
-
-
 <table style="width:100%">
   <tr>
     <th width="30%">
-      <img class="zoom-in-img" src="../files/unmixing_aes.png" width="350"/>
+      <img class="zoom-in-img" src="../files/gnns_kd_abstract.png" width="350"/>
     </th>
     <th style="text-align:left" width="70%">
-            <span style="font-size:18px">Hyperspectral unmixing for Raman spectroscopy via physics-constrained autoencoders</span><br><br>
-            <span style="font-size:16px">Dimitar Georgiev<span style="font-weight:normal">, Álvaro Fernández-Galiana, Simon Vilms Pedersen, Georgios Papadopoulos, Ruoxiao Xie, Molly M. Stevens, Mauricio Barahona </span></span><br><br>
-             <span style="font-weight:normal;font-size:16px">Proceedings of the National Academy of Sciences (PNAS), 2024 (<i>in press</i>)</span><br><br>
-            <span style="font-weight:normal;font-size:16px;vertical-align:sub;"><a href="https://arxiv.org/abs/2403.04526"><img src="https://img.shields.io/badge/Preprint-arXiv-b31b1b.svg" style="vertical-align: sub;"></a> <a href="#" class="cite-modal" data-toggle="modal" data-target="#citeModal" data-filename="@article%7Bgeorgiev2024hyperspectral,%0A%20%20title=%7BHyperspectral%20unmixing%20for%20Raman%20spectroscopy%20via%20physics-constrained%20autoencoders%7D,%0A%20%20author=%7BGeorgiev,%20Dimitar%20and%20Fern{\'a}ndez-Galiana,%20Alvaro%20and%20Pedersen,%20Simon%20Vilms%20and%20Papadopoulos,%20Georgios%20and%20Xie,%20Ruoxiao%20and%20Stevens,%20Molly%20M%20and%20Barahona,%20Mauricio%7D,%0A%20%20journal=%7BarXiv%20preprint%20arXiv:2403.04526%7D,%0A%20%20year=%7B2024%7D%0A%7D"><img src="https://img.shields.io/badge/Cite-BibTeX-red" style="vertical-align: sub;"></a></span><br><br>
+            <span style="font-size:18px">Accelerating Molecular Graph Neural Networks via Knowledge Distillation</span><br><br>
+            <span style="font-size:16px"><span style="font-weight:normal">Filip Ekström Kelvinius*,</span> Dimitar Georgiev*<span style="font-weight:normal">, Artur Petrov Toshev*, Johannes Gasteiger</span></span>
+	    <p style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;">*Equal contribution. Order was determined by rolling a dice.</p>
+             <span style="font-weight:normal;font-size:16px">Conference on Neural Information Processing Systems (NeurIPS), 2023</span><br><br>
+            <span style="font-weight:normal;font-size:16px;vertical-align:sub;"><a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/51ec452ca04d8ec7160e5bbaf76153f6-Abstract-Conference.html"><img src="https://img.shields.io/badge/Paper-NeurIPS-916BA4" style="vertical-align: sub;"></a> <a href="#" class="cite-modal" data-toggle="modal" data-target="#citeModal" data-filename="@inproceedings%7BNEURIPS2023_51ec452c,%0A%20author%20%3D%20%7BEkstr%5C%22%7Bo%7Dm%20Kelvinius,%20Filip%20and%20Georgiev,%20Dimitar%20and%20Toshev,%20Artur%20and%20Gasteiger,%20Johannes%7D,%0A%20booktitle%20%3D%20%7BAdvances%20in%20Neural%20Information%20Processing%20Systems%7D,%0A%20editor%20%3D%20%7BA.%20Oh%20and%20T.%20Neumann%20and%20A.%20Globerson%20and%20K.%20Saenko%20and%20M.%20Hardt%20and%20S.%20Levine%7D,%0A%20pages%20%3D%20%7B25761--25792%7D,%0A%20publisher%20%3D%20%7BCurran%20Associates,%20Inc.%7D,%0A%20title%20%3D%20%7BAccelerating%20Molecular%20Graph%20Neural%20Networks%20via%20Knowledge%20Distillation%7D,%0A%20url%20%3D%20%7Bhttps%3A//proceedings.neurips.cc/paper_files/paper/2023/file/51ec452ca04d8ec7160e5bbaf76153f6-Paper-Conference.pdf%7D,%0A%20volume%20%3D%20%7B36%7D,%0A%20year%20%3D%20%7B2023%7D%0A%7D"><img src="https://img.shields.io/badge/Cite-BibTeX-red" style="vertical-align: sub;"></a> <span style="vertical-align:sub;"><a class="github-button" href="https://github.com/gasteigerjo/ocp/blob/main/DISTILL.md" data-color-    scheme="no-preference: light; light: light; dark: dark;" aria-label="Code" style="vertical-align: sub;">Code</a></span></span><br><br>
 	    <span style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;">This work has also been presented at:</span>
 	    <ul style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;">
-		    <li>AI for Science Workshop at International Conference on Machine Learning (oral), 2024</li>
-		    <li>Machine Learning for Life and Material Science Workshop at International Conference on Machine Learning, 2024</li>
-		    <li>BioMedEng24 Conference (oral), 2024</li>
+		    <li>Synergy of Scientific and Machine Learning Modeling Workshop at International Conference on Machine Learning, 2023</li>
+		    <li>Learning on Graphs Conference (oral), 2023</li>
+		    <li>Molecular Machine Learning Conference, 2024</li>
 	</ul>
     </th>
   </tr> 
