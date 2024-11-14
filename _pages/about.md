@@ -57,6 +57,13 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
 
 <ul>
 
+<h6>November:</h6>
+<ul style="margin-bottom:.5em">
+    <li style="margin-bottom:0em">🪧 Poster presentation at RamanFest2024 - won Best PhD Poster award</li>
+<p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
+          <b>Title: </b><i>Hyperspectral unmixing for Raman spectroscopy via physics-constrained autoencoders</i></p>
+</ul>
+
 <h6>October:</h6>
 <ul style="margin-bottom:.5em">
     <li style="margin-bottom:0em">📄 Paper published in PNAS</li>
@@ -219,6 +226,7 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
 		    <li>AI for Science Workshop at International Conference on Machine Learning (oral), 2024</li>
 		    <li>Machine Learning for Life and Material Science Workshop at International Conference on Machine Learning, 2024</li>
 		    <li>BioMedEng24 Conference (oral), 2024</li>
+		    <li>RamanFest Conference, 2024</li>
 	</ul>
     </th>
   </tr> 
