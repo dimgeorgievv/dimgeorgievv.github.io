@@ -14,10 +14,10 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
         <h3 style="font-size:24px;border-bottom: 1px solid #dcdcdc;margin-bottom:20px;">Interests</h3>
         <ul class="ul-interests">          
           <li>Deep learning</li>          
-          <li>ML for chemometrics</li>          
-          <li>ML for molecules</li>          
-          <li>AI for science</li>        
-          <li>AI for healthcare</li>              
+          <li>Chemometrics</li>          
+          <li>Analytical chemistry</li>   
+          <li>Drug discovery</li>            
+          <li>AI for science</li>                 
           <li>Software</li>
         </ul>
       </div>
