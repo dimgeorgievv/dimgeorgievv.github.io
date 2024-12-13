@@ -15,10 +15,10 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
         <ul class="ul-interests">          
           <li>Deep learning</li>          
           <li>Chemometrics</li>          
-          <li>Analytical chemistry</li>   
+          <li>Analytical chemistry</li>                 
+          <li>Phenomics</li>   
           <li>Drug discovery</li>            
-          <li>AI for science</li>                 
-          <li>Software</li>
+          <li>AI for science</li>
         </ul>
       </div>
       <div class="col-md-1"></div>
