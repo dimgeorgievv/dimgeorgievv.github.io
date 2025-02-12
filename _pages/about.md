@@ -52,6 +52,17 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
 
 <h3 style="font-size:24px;border-bottom: 1px solid #dcdcdc;margin-bottom:20px;">Recent highlights</h3>
 
+<h6>2025:</h6>
+
+<ul>
+
+<h6>January:</h6>
+<ul style="margin-bottom:.5em">
+    <li style="margin-bottom:0em">RamanSPy ranked <a href="https://pubs.acs.org/action/showMostReadArticles?topArticlesType=recent&amp;journalCode=ancham">#11 most-read article in Analytical Chemistry</a> in 2024</li>
+</ul>
+
+</ul>
+
 
 <h6>2024:</h6>
 
