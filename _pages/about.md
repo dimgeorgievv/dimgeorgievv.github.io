@@ -56,9 +56,13 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
 
 <ul>
 
-<h6>January:</h6>
+<h6>April:</h6>
 <ul style="margin-bottom:.5em">
-    <li style="margin-bottom:0em">RamanSPy <a href="https://pubs.acs.org/action/showMostReadArticles?topArticlesType=recent&amp;journalCode=ancham">#8 most-read article in Analytical Chemistry</a> in the past year</li>
+    <li style="margin-bottom:0em">🪧 Poster presentation at the LMRL workshop at ICLR'25</li>
+<p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">📍Singapore</p>
+</ul> 
+<ul style="margin-bottom:.5em">
+    <li style="margin-bottom:0em">RamanSPy <a href="https://pubs.acs.org/action/showMostReadArticles?topArticlesType=recent&amp;journalCode=ancham">#9 most-read article in Analytical Chemistry</a> in the past year</li>
 </ul>
 
 </ul>
@@ -97,22 +101,22 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
 
 <h6>July:</h6>
 <ul style="margin-bottom:.5em">
-    <li style="margin-bottom:0em">🎤 Oral presentation at AI4Science workshop at ICML'24</li>
+    <li style="margin-bottom:0em">🎤 Oral presentation at the AI4Science workshop at ICML'24</li>
 <p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
           <b>Title: </b><i>Hyperspectral Unmixing for Raman Spectroscopy via Physics-Constrained Autoencoders</i><br>📍Vienna, Austria</p>
 </ul>
 <ul style="margin-bottom:.5em">
-    <li style="margin-bottom:0em">🪧 Poster presentation at AI4Science workshop at ICML'24</li>
+    <li style="margin-bottom:0em">🪧 Poster presentation at the AI4Science workshop at ICML'24</li>
 <p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
           <b>Title: </b><i>RamanSPy: Augmenting Raman spectroscopy data analysis with AI</i><br>📍Vienna, Austria</p>
 </ul> 
 <ul style="margin-bottom:.5em">
-    <li style="margin-bottom:0em">🪧 Poster presentation at ML4LMS workshop at ICML'24</li>
+    <li style="margin-bottom:0em">🪧 Poster presentation at the ML4LMS workshop at ICML'24</li>
 <p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
           <b>Title: </b><i>Hyperspectral Unmixing for Raman Spectroscopy via Physics-Constrained Autoencoders</i><br>📍Vienna, Austria</p>
 </ul>
 <ul style="margin-bottom:.5em">
-    <li style="margin-bottom:0em">🪧 Poster presentation at ML4LMS workshop at ICML'24</li>
+    <li style="margin-bottom:0em">🪧 Poster presentation at the ML4LMS workshop at ICML'24</li>
 <p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
           <b>Title: </b><i>RamanSPy: Augmenting Raman spectroscopy data analysis with AI</i><br>📍Vienna, Austria</p>
 </ul>	
@@ -184,7 +188,7 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
 
 <h6>July:</h6>
 <ul style="margin-bottom:.5em">
-    <li style="margin-bottom:0em">🪧 Poster presentation at SynS&ML workshop at ICML'23</li>
+    <li style="margin-bottom:0em">🪧 Poster presentation at the SynS&ML workshop at ICML'23</li>
 <p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
           <b>Title: </b><i>Accelerating Molecular Graph Neural Networks via Knowledge Distillation</i><br>📍Hawaii, USA</p>
 </ul>
