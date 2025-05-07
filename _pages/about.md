@@ -56,17 +56,23 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
 
 <ul>
 
+<h6>May:</h6>
+<ul style="margin-bottom:.5em">
+    <li style="margin-bottom:0em">Attended AISTATS 2025</li>
+<p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">📍Phuket, Thailand</p>
+</ul>
+
+<ul style="margin-bottom:.5em">
+    <li style="margin-bottom:0em">RamanSPy <a href="https://pubs.acs.org/action/showMostReadArticles?topArticlesType=recent&amp;journalCode=ancham">#8 most-read article in Analytical Chemistry</a> in the past year</li>
+</ul>
+
 <h6>April:</h6>
 <ul style="margin-bottom:.5em">
     <li style="margin-bottom:0em">🪧 Poster presentation at the LMRL workshop at ICLR'25</li>
 <p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">📍Singapore</p>
 </ul> 
-<ul style="margin-bottom:.5em">
-    <li style="margin-bottom:0em">RamanSPy <a href="https://pubs.acs.org/action/showMostReadArticles?topArticlesType=recent&amp;journalCode=ancham">#9 most-read article in Analytical Chemistry</a> in the past year</li>
-</ul>
 
 </ul>
-
 
 <h6>2024:</h6>
 
