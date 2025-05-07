@@ -58,7 +58,7 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
 
 <h6>May:</h6>
 <ul style="margin-bottom:.5em">
-    <li style="margin-bottom:0em">Attended AISTATS 2025</li>
+    <li style="margin-bottom:0em">Attended AISTATS'25</li>
 <p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">📍Phuket, Thailand</p>
 </ul>
 
