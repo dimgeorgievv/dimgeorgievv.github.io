@@ -254,7 +254,7 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
 		    <li>Machine Learning for Life and Material Science Workshop at International Conference on Machine Learning, 2024</li>
 		    <li>BioMedEng24 Conference (oral), 2024</li>
 		    <li>RamanFest Conference (Best PhD Poster award), 2024</li>
-		    <li>CAI4H, 2024</li>
+		    <li>CAI4H Conference, 2024</li>
 	</ul>
     </th>
   </tr> 
