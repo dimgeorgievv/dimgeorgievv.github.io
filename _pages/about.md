@@ -55,6 +55,19 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
 <h6>2025:</h6>
 
 <ul>
+	
+<h6>July:</h6>
+
+<ul style="margin-bottom:.5em;list-style-type:disc">
+    <li style="margin-bottom:0em">Attending ICML'25</li>
+<p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">📍Vancouver, Canada</p>
+</ul>
+
+ <ul style="margin-bottom:.5em;list-style-type:disc">
+    <li style="margin-bottom:0em">🎤 Oral presentation at AI4X</li>
+<p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
+          <b>Title: </b><i>Hyperspectral Unmixing for Raman Spectroscopy via Physics-Constrained Autoencoders</i><br>📍Singapore</p>
+</ul>
 
 <h6>June:</h6>
 <ul style="margin-bottom:.5em;list-style-type:disc">
@@ -255,6 +268,7 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
 		    <li>BioMedEng24 Conference (oral), 2024</li>
 		    <li>RamanFest Conference (Best PhD Poster award), 2024</li>
 		    <li>CAI4H Conference, 2024</li>
+		    <li>AI4X Conference (oral), 2025</li>
 	</ul>
     </th>
   </tr> 
