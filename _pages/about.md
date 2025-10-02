@@ -56,6 +56,14 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
 
 <ul>
 	
+<h6>September:</h6>
+
+<ul style="margin-bottom:.5em;list-style-type:disc">
+    <li style="margin-bottom:0em">📝 New preprint is out</li>
+<p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
+          <b>Title: </b><i>Label-free biochemical imaging and timepoint analysis of neural organoids via deep learning-enhanced Raman microspectroscopy</i></p>
+</ul>
+
 <h6>July:</h6>
 
 <ul style="margin-bottom:.5em;list-style-type:disc">
