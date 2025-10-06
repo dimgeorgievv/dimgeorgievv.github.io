@@ -5,7 +5,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student in Artificial Intelligence and Machine Learning at Imperial College London working on deep learning approaches for analytical chemistry, chemometrics and drug discovery under the supervision of [Prof. Mauricio Barahona](https://www.imperial.ac.uk/people/m.barahona) and [Prof. Dame Molly Stevens](https://www.stevensgroup.org).
+
+I am a Postdoctoral Research Scientist at the University of Oxford in the group of [Prof. Dame Molly Stevens](https://www.stevensgroup.org), working on deep learning approaches for analytical chemistry, chemometrics and drug discovery.
 
 <br>
 
@@ -55,6 +56,17 @@ I am a PhD student in Artificial Intelligence and Machine Learning at Imperial C
 <h6>2025:</h6>
 
 <ul>
+
+	
+<h6>Oct:</h6>
+
+<ul style="margin-bottom:.5em;list-style-type:disc">
+    <li style="margin-bottom:0em">🎉 Postdoctoral Research Scientist at University of Oxford</li>
+</ul>
+
+<ul style="margin-bottom:.5em;list-style-type:disc">
+    <li style="margin-bottom:0em">✅ Submitted my PhD thesis</li>
+</ul>
 	
 <h6>September:</h6>
 
