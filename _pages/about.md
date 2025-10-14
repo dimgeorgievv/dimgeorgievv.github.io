@@ -274,6 +274,28 @@ I am a Postdoctoral Research Scientist in the group of [Prof. Dame Molly Stevens
 <table style="width:100%">
   <tr>
     <th width="30%">
+      <img class="zoom-in-img" src="../files/pipeline.png" width="350"/>
+    </th>
+    <th style="text-align:left" width="70%">
+            <span style="font-size:18px">Label-free biochemical imaging and timepoint analysis of neural organoids via deep learning-enhanced Raman microspectroscopy</span><br><br>
+            <span style="font-size:16px">Dimitar Georgiev<span style="font-weight:normal">, Dimitar Georgiev}, Ruoxiao Xie, Daniel Reumann, Xiaoyu Zhao, Álvaro Fernández-Galiana, Mauricio Barahona, Molly M. Stevens. (submitted). </span></span><br><br>
+             <span style="font-weight:normal;font-size:16px">Preprint available on bioRxiv: 10.1101/2025.09.29.679057, 2025.</span><br><br>
+            <span style="font-weight:normal;font-size:16px;vertical-align:sub;"><a href="https://doi.org/10.1101/2025.09.29.679057"><img src="https://img.shields.io/badge/Paper-bioRxiv-BD2736.svg" style="vertical-align: sub;"></a> </span> <br><br>
+	    <span style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;">This work has also been presented or is scheduled to be presented at:</span>
+	    <ul style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;">
+		    <li>Learning Meaningful Representations of Life Workshop at International Conference on Learning Representations (ICLR), 2025</li>
+		    <li>CAI4H Conference, 2025</li>
+		    <li>AI for Science Workshop at Conference on Neural Information Processing Systems (NeurIPS), 2025 (upcoming)</li>
+		    <li>AI Virtual Cells and Instruments Workshop at Conference on Neural Information Processing Systems (NeurIPS), 2025 (upcoming)</li>
+		    <li>Imageomics Workshop at Conference on Neural Information Processing Systems (NeurIPS), 2025 (upcoming)</li>
+	</ul>
+    </th>
+  </tr> 
+</table>
+
+<table style="width:100%">
+  <tr>
+    <th width="30%">
       <img class="zoom-in-img" src="../files/unmixing_aes.png" width="350"/>
     </th>
     <th style="text-align:left" width="70%">
@@ -283,12 +305,12 @@ I am a Postdoctoral Research Scientist in the group of [Prof. Dame Molly Stevens
             <span style="font-weight:normal;font-size:16px;vertical-align:sub;"><a href="https://doi.org/10.1073/pnas.2407439121"><img src="https://img.shields.io/badge/Paper-PNAS-0175c9.svg" style="vertical-align: sub;"></a> <a href="#" class="cite-modal" data-toggle="modal" data-target="#citeModal" data-filename="@article%7Bgeorgiev2024hyperspectral,%0A%20%20title=%7BHyperspectral%20unmixing%20for%20Raman%20spectroscopy%20via%20physics-constrained%20autoencoders%7D,%0A%20%20author=%7BGeorgiev,%20Dimitar%20and%20Fern{\'a}ndez-Galiana,%20Alvaro%20and%20Pedersen,%20Simon%20Vilms%20and%20Papadopoulos,%20Georgios%20and%20Xie,%20Ruoxiao%20and%20Stevens,%20Molly%20M%20and%20Barahona,%20Mauricio%7D,%0A%20%20journal=%7BProceedings%20of%20the%20National%20Academy%20of%20Sciences%7D,%0A%20%20volume=%7B121%7D,%0A%20%20number=%7B45%7D,%0A%20%20pages=%7Be2407439121%7D,%0A%20%20doi=%7B10.1073/pnas.2407439121%7D,%0A%20%20year=%7B2024%7D%0A%7D"><img src="https://img.shields.io/badge/Cite-BibTeX-red" style="vertical-align: sub;"></a> <span style="vertical-align:sub;"><a class="github-button" href="https://github.com/barahona-research-group/raman-unmixing-aes" data-color-    scheme="no-preference: light; light: light; dark: dark;" aria-label="Code" style="vertical-align: sub;">Code</a></span></span> <br><br>
 	    <span style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;">This work has also been presented at:</span>
 	    <ul style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;">
-		    <li>AI for Science Workshop at International Conference on Machine Learning (oral), 2024</li>
-		    <li>Machine Learning for Life and Material Science Workshop at International Conference on Machine Learning, 2024</li>
-		    <li>BioMedEng24 Conference (oral), 2024</li>
+		    <li>AI for Science Workshop at International Conference on Machine Learning (ICML), oral presentation, 2024</li>
+		    <li>Machine Learning for Life and Material Science Workshop at International Conference on Machine Learning (ICML), 2024</li>
+		    <li>BioMedEng24 Conference, oral presentation, 2024</li>
 		    <li>RamanFest Conference (Best PhD Poster award), 2024</li>
 		    <li>CAI4H Conference, 2024</li>
-		    <li>AI4X Conference (oral), 2025</li>
+		    <li>AI4X Conference, oral presentation, 2025</li>
 	</ul>
     </th>
   </tr> 
@@ -306,8 +328,8 @@ I am a Postdoctoral Research Scientist in the group of [Prof. Dame Molly Stevens
             <span style="font-weight:normal;font-size:16px;vertical-align:sub;"><a href="https://doi.org/10.1021/acs.analchem.4c00383"><img src="https://img.shields.io/badge/Paper-Analytical_Chemistry-fdc82f" style="vertical-align: sub;"></a> <a href="#" class="cite-modal" data-toggle="modal" data-target="#citeModal" data-filename="@article%7Bgeorgiev2024ramanspy,%0A%20%20title=%7BRamanSPy%3A%20An%20open-source%20Python%20package%20for%20integrative%20Raman%20spectroscopy%20data%20analysis%7D,%0A%20%20author=%7BGeorgiev,%20Dimitar%20and%20Pedersen,%20Simon%20Vilms%20and%20Xie,%20Ruoxiao%20and%20Fern{\'a}ndez-Galiana,%20Alvaro%20and%20Stevens,%20Molly%20M%20and%20Barahona,%20Mauricio%7D,%0A%20%20journal=%7BAnalytical%20Chemistry%7D,%0A%20%20volume=%7B96%7D,%0A%20%20number=%7B21%7D,%0A%20%20pages=%7B8492%2D8500%7D,%0A%20%20doi=%7B10.1021/acs.analchem.4c00383%7D,%0A%20%20year=%7B2024%7D%0A%7D"><img src="https://img.shields.io/badge/Cite-BibTeX-red" style="vertical-align: sub;"></a> <a href="https://ramanspy.readthedocs.io"><img src="https://img.shields.io/badge/Docs-Website-blue" style="vertical-align: sub;"></a> <span style="vertical-align:sub;"><a class="github-button" href="https://github.com/barahona-research-group/RamanSPy" data-color-    scheme="no-preference: light; light: light; dark: dark;" aria-label="Code" style="vertical-align: sub;">Code</a></span> <span style="vertical-align:sub;"><a class="github-button" href="https://github.com/barahona-research-group/RamanSPy" data-color-    scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-show-count="true" aria-label="Star barahona-research-group/RamanSPy on GitHub" style="vertical-align: sub;">Star</a></span> <a href="https://www.pepy.tech/projects/ramanspy"><img src="https://static.pepy.tech/badge/ramanspy" style="vertical-align: sub;"></a></span><br><br>
 	    <span style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;">This work has also been presented at:</span>
 	    <ul style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;">
-		    <li>AI for Science Workshop at International Conference on Machine Learning, 2024</li>
-		    <li>Machine Learning for Life and Material Science Workshop at International Conference on Machine Learning, 2024</li>
+		    <li>AI for Science Workshop at International Conference on Machine Learning (ICML), 2024</li>
+		    <li>Machine Learning for Life and Material Science Workshop at International Conference on Machine Learning (ICML), 2024</li>
 		    <li>BioMedEng24 Conference, 2024</li>
 	</ul>
     </th>
@@ -327,9 +349,9 @@ I am a Postdoctoral Research Scientist in the group of [Prof. Dame Molly Stevens
             <span style="font-weight:normal;font-size:16px;vertical-align:sub;"><a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/51ec452ca04d8ec7160e5bbaf76153f6-Abstract-Conference.html"><img src="https://img.shields.io/badge/Paper-NeurIPS-916BA4" style="vertical-align: sub;"></a> <a href="#" class="cite-modal" data-toggle="modal" data-target="#citeModal" data-filename="@inproceedings%7BNEURIPS2023_51ec452c,%0A%20author%20%3D%20%7BEkstr%5C%22%7Bo%7Dm%20Kelvinius,%20Filip%20and%20Georgiev,%20Dimitar%20and%20Toshev,%20Artur%20and%20Gasteiger,%20Johannes%7D,%0A%20booktitle%20%3D%20%7BAdvances%20in%20Neural%20Information%20Processing%20Systems%7D,%0A%20editor%20%3D%20%7BA.%20Oh%20and%20T.%20Neumann%20and%20A.%20Globerson%20and%20K.%20Saenko%20and%20M.%20Hardt%20and%20S.%20Levine%7D,%0A%20pages%20%3D%20%7B25761--25792%7D,%0A%20publisher%20%3D%20%7BCurran%20Associates,%20Inc.%7D,%0A%20title%20%3D%20%7BAccelerating%20Molecular%20Graph%20Neural%20Networks%20via%20Knowledge%20Distillation%7D,%0A%20url%20%3D%20%7Bhttps%3A//proceedings.neurips.cc/paper_files/paper/2023/file/51ec452ca04d8ec7160e5bbaf76153f6-Paper-Conference.pdf%7D,%0A%20volume%20%3D%20%7B36%7D,%0A%20year%20%3D%20%7B2023%7D%0A%7D"><img src="https://img.shields.io/badge/Cite-BibTeX-red" style="vertical-align: sub;"></a> <span style="vertical-align:sub;"><a class="github-button" href="https://github.com/gasteigerjo/ocp/blob/main/DISTILL.md" data-color-    scheme="no-preference: light; light: light; dark: dark;" aria-label="Code" style="vertical-align: sub;">Code</a></span></span><br><br>
 	    <span style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;">This work has also been presented at:</span>
 	    <ul style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;">
-		    <li>Synergy of Scientific and Machine Learning Modeling Workshop at International Conference on Machine Learning, 2023</li>
-		    <li>Learning on Graphs Conference (oral), 2023</li>
-		    <li>Molecular Machine Learning Conference, 2024</li>
+		    <li>Synergy of Scientific and Machine Learning Modeling Workshop at International Conference on Machine Learning (ICML), 2023</li>
+		    <li>Learning on Graphs Conference, oral presentation, 2023</li>
+		    <li>Molecular Machine Learning Conference (MoML), 2024</li>
 	</ul>
     </th>
   </tr> 
