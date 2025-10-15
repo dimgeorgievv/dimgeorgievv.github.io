@@ -31,7 +31,7 @@ I am a Postdoctoral Research Scientist in the group of [Prof. Dame Molly Stevens
             <div class="description">
               <p class="course" style="margin-bottom:5px">PhD in AI & ML</p>
               <p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">Imperial College London, UK</p>
-	    	<p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;">Oct 2021 - Present</p>
+	    	<p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;">Oct 2021 - Oct 2025</p>
             </div>
           </li>
 	  <br>
@@ -108,7 +108,7 @@ I am a Postdoctoral Research Scientist in the group of [Prof. Dame Molly Stevens
 <h6>April:</h6>
 <ul style="margin-bottom:.5em;list-style-type:disc">
     <li style="margin-bottom:0em">🪧 Poster presentation at the LMRL workshop at ICLR'25</li>
-<p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">📍Singapore</p>
+<p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;"><b>Title: </b><i>Label-free biochemical imaging and timepoint analysis of neural organoids via deep learning-enhanced Raman microspectroscopy</i><br>📍Singapore</p>
 </ul> 
 
 </ul>
@@ -278,7 +278,7 @@ I am a Postdoctoral Research Scientist in the group of [Prof. Dame Molly Stevens
     </th>
     <th style="text-align:left" width="70%">
             <span style="font-size:18px">Label-free biochemical imaging and timepoint analysis of neural organoids via deep learning-enhanced Raman microspectroscopy</span><br><br>
-            <span style="font-size:16px">Dimitar Georgiev<span style="font-weight:normal">, Ruoxiao Xie, Daniel Reumann, Xiaoyu Zhao, Álvaro Fernández-Galiana, Mauricio Barahona, Molly M. Stevens. (submitted). </span></span><br><br>
+            <span style="font-size:16px">Dimitar Georgiev<span style="font-weight:normal">, Ruoxiao Xie, Daniel Reumann, Xiaoyu Zhao, Álvaro Fernández-Galiana, Mauricio Barahona, Molly M. Stevens. (under review). </span></span><br><br>
              <span style="font-weight:normal;font-size:16px">Preprint available on bioRxiv: 10.1101/2025.09.29.679057, 2025.</span><br><br>
             <span style="font-weight:normal;font-size:16px;vertical-align:sub;"><a href="https://doi.org/10.1101/2025.09.29.679057"><img src="https://img.shields.io/badge/Preprint-bioRxiv-BD2736.svg" style="vertical-align: sub;"></a> </span> <br><br>
 	    <span style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;">This work has also been presented or is scheduled to be presented at:</span>
