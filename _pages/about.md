@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Research Scientist in the group of [Prof. Dame Molly Stevens](https://www.stevensgroup.org) at the University of Oxford, working on deep learning approaches for analytical chemistry, chemometrics and drug discovery.
+I am a Postdoctoral Research Scientist in the group of [Prof. Dame Molly Stevens](https://www.stevensgroup.org) at the University of Oxford, working on deep learning approaches for analytical chemistry, label-free biophotonics and drug discovery.
 
 <br>
 
@@ -15,9 +15,9 @@ I am a Postdoctoral Research Scientist in the group of [Prof. Dame Molly Stevens
         <h3 style="font-size:24px;border-bottom: 1px solid #dcdcdc;margin-bottom:20px;">Interests</h3>
         <ul class="ul-interests">          
           <li>Deep learning</li>          
-          <li>Chemometrics</li>          
+          <li>Label-free biophotonics</li>          
           <li>Analytical chemistry</li>                 
-          <li>Phenomics</li>   
+          <li>Chemometrics</li>   
           <li>Drug discovery</li>            
           <li>AI for science</li>
         </ul>
