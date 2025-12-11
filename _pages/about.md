@@ -58,6 +58,30 @@ I am a Postdoctoral Research Scientist in the group of [Prof. Dame Molly Stevens
 <ul>
 
 	
+<h6>Dec:</h6>
+
+<ul style="margin-bottom:.5em;list-style-type:disc">
+    <li style="margin-bottom:0em">🪧 Poster presentation at the AI4Science workshop at NeurIPS'25</li>
+<p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
+          <b>Title: </b><i>Label-free biochemical imaging of neural organoids via deep learning-enhanced Raman microspectroscopy</i><br>📍San Diego, USA</p>
+</ul> 
+
+<ul style="margin-bottom:.5em;list-style-type:disc">
+    <li style="margin-bottom:0em">🪧 Poster presentation at the Virtual Cells and Instruments workshop at NeurIPS'25</li>
+<p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
+          <b>Title: </b><i>Label-free biochemical imaging of neural organoids via deep learning-enhanced Raman microspectroscopy</i><br>📍San Diego, USA</p>
+</ul> 
+
+<ul style="margin-bottom:.5em;list-style-type:disc">
+    <li style="margin-bottom:0em">🪧 Poster presentation at the Imageommics workshop at NeurIPS'25</li>
+<p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
+          <b>Title: </b><i>Label-free biochemical imaging of neural organoids via deep learning-enhanced Raman microspectroscopy</i><br>📍San Diego, USA</p>
+</ul> 
+
+<ul style="margin-bottom:.5em;list-style-type:disc">
+    <li style="margin-bottom:0em">✅ Submitted my PhD thesis</li>
+</ul>
+	
 <h6>Oct:</h6>
 
 <ul style="margin-bottom:.5em;list-style-type:disc">
@@ -285,9 +309,9 @@ I am a Postdoctoral Research Scientist in the group of [Prof. Dame Molly Stevens
 	    <ul style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;">
 		    <li>Learning Meaningful Representations of Life Workshop at International Conference on Learning Representations (ICLR), 2025</li>
 		    <li>CAI4H Conference, 2025</li>
-		    <li>AI for Science Workshop at Conference on Neural Information Processing Systems (NeurIPS), 2025 (upcoming)</li>
-		    <li>AI Virtual Cells and Instruments Workshop at Conference on Neural Information Processing Systems (NeurIPS), 2025 (upcoming)</li>
-		    <li>Imageomics Workshop at Conference on Neural Information Processing Systems (NeurIPS), 2025 (upcoming)</li>
+		    <li>AI for Science Workshop at Conference on Neural Information Processing Systems (NeurIPS), 2025</li>
+		    <li>AI Virtual Cells and Instruments Workshop at Conference on Neural Information Processing Systems (NeurIPS), 2025</li>
+		    <li>Imageomics Workshop at Conference on Neural Information Processing Systems (NeurIPS), 2025</li>
 	</ul>
     </th>
   </tr> 
