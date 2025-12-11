@@ -51,7 +51,7 @@ I am a Postdoctoral Research Scientist in the group of [Prof. Dame Molly Stevens
 
 
 
-<h3 style="font-size:24px;border-bottom: 1px solid #dcdcdc;margin-bottom:20px;">Recent highlights</h3>
+<h3 style="font-size:24px;border-bottom: 1px solid #dcdcdc;margin-bottom:20px;">News</h3>
 
 <h6>2025:</h6>
 
