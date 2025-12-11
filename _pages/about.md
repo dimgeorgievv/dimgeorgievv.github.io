@@ -77,10 +77,6 @@ I am a Postdoctoral Research Scientist in the group of [Prof. Dame Molly Stevens
 <p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
           <b>Title: </b><i>Label-free biochemical imaging of neural organoids via deep learning-enhanced Raman microspectroscopy</i><br>📍San Diego, USA</p>
 </ul> 
-
-<ul style="margin-bottom:.5em;list-style-type:disc">
-    <li style="margin-bottom:0em">✅ Submitted my PhD thesis</li>
-</ul>
 	
 <h6>Oct:</h6>
 
