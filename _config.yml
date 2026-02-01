@@ -1,8 +1,8 @@
 # Site Settings
 locale                   : "en-US"
-title                    : "Dimitar Georgiev"
+title                    : "Dimitar Georgiev, PhD"
 title_separator          : " - "
-name                     : &name "Dimitar Georgiev"
+name                     : &name "Dimitar Georgiev, PhD"
 description              : &description "My personal website"
 url                      : "https://dimgeorgievv.github.io"
 repository               : "dimgeorgievv/dimgeorgievv.github.io"
