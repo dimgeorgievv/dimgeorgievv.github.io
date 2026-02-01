@@ -6,7 +6,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Research Scientist in the group of [Prof. Dame Molly Stevens](https://www.stevensgroup.org) at the University of Oxford, working on deep learning approaches for analytical chemistry, label-free biophotonics and drug discovery.
+I am a Postdoctoral Research Scientist in the group of [Prof. Dame Molly Stevens](https://www.stevensgroup.org) at the University of Oxford. My research focuses on deep learning methods for label-free biophotonics, analytical chemistry and molecular modelling, with applications in cellular and tissue imaging, diagnostics and drug discovery. 
+
+I completed my PhD in AI \& ML at Imperial College London in 2025, supervised by Prof. Mauricio Barahona and Prof. Dame Molly Stevens. My doctoral research developed methods for label-free chemical analysis based on deep learning and Raman spectroscopy to study early human brain development in neural organoids.
+
+Prior to this, I obtained an MMath in Mathematics from the University of Southampton, with minors in computer science, machine learning and physics. I also have industry experience in machine learning, data science and software engineering.
 
 <br>
 
@@ -52,6 +56,20 @@ I am a Postdoctoral Research Scientist in the group of [Prof. Dame Molly Stevens
 
 
 <h3 style="font-size:24px;border-bottom: 1px solid #dcdcdc;margin-bottom:20px;">News</h3>
+
+<h6>2026:</h6>
+
+<ul>
+
+<h6>Feb:</h6>
+<ul style="margin-bottom:.5em;list-style-type:disc">
+    <li style="margin-bottom:0em">🎉 Awarded a PhD in AI & ML</li>
+<p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;"><b>Doctoral thesis: </b><i>From Photons to Phenotypes: Decoding Organoid Biochemistry via Deep Learning-Enhanced Raman Spectroscopy</i><br>📍Imperial College London, UK</p>
+</ul> 
+
+</ul>
+
+
 
 <h6>2025:</h6>
 
