@@ -8,7 +8,7 @@ redirect_from:
 
 I am a Postdoctoral Research Scientist in the group of [Prof. Dame Molly Stevens](https://www.stevensgroup.org) at the University of Oxford. My research focuses on deep learning methods for label-free biophotonics, analytical chemistry and molecular modelling, with applications in cellular and tissue imaging, diagnostics and drug discovery. 
 
-I completed my PhD in AI \& ML at Imperial College London in 2025, supervised by Prof. Mauricio Barahona and Prof. Dame Molly Stevens. My doctoral research developed methods for label-free chemical analysis based on deep learning and Raman spectroscopy to study early human brain development in neural organoids.
+I completed my PhD in AI & ML at Imperial College London in 2025, supervised by Prof. Mauricio Barahona and Prof. Dame Molly Stevens. My doctoral research developed methods for label-free chemical analysis based on deep learning and Raman spectroscopy to study early human brain development in neural organoids.
 
 Prior to this, I obtained an MMath in Mathematics from the University of Southampton, with minors in computer science, machine learning and physics. I also have industry experience in machine learning, data science and software engineering.
 
