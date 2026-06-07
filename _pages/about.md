@@ -61,19 +61,20 @@ Prior to this, I obtained an MMath in Mathematics from the University of Southam
 
 <details open>
   <summary><h6 style="display:inline;">2026</h6></summary>
-
+<ul>
 <h6>Feb:</h6>
 <ul style="margin-bottom:.5em;list-style-type:disc">
     <li style="margin-bottom:0em">🎉 Awarded a PhD in AI & ML</li>
 <p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;"><b>Doctoral thesis: </b><i>From photons to phenotypes: Decoding organoid biochemistry via deep learning-enhanced Raman spectroscopy</i><br>📍Imperial College London, UK</p>
 </ul> 
-
+</ul>
 </details>
 
 
 
 <details>
   <summary><h6 style="display:inline;">2025</h6></summary>
+<ul>
 	
 <h6>Dec:</h6>
 
@@ -147,12 +148,12 @@ Prior to this, I obtained an MMath in Mathematics from the University of Southam
     <li style="margin-bottom:0em">🪧 Poster presentation at the LMRL workshop at ICLR'25</li>
 <p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;"><b>Title: </b><i>Label-free biochemical imaging and timepoint analysis of neural organoids via deep learning-enhanced Raman microspectroscopy</i><br>📍Singapore</p>
 </ul> 
-
+</ul>
 </details>
 
 <details>
   <summary><h6 style="display:inline;">2024</h6></summary>
-
+<ul>
 <h6>November:</h6>
 <ul style="margin-bottom:.5em;list-style-type:disc">
     <li style="margin-bottom:0em">🪧 Poster presentation at RamanFest2024 - won the Best PhD Poster award</li>
@@ -238,12 +239,12 @@ Prior to this, I obtained an MMath in Mathematics from the University of Southam
 <p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
           <b>Title: </b><i>Hyperspectral Unmixing for Raman Spectroscopy via Physics-Constrained Autoencoders</i></p>
 </ul>	
-
+</ul>
 </details>
 
 <details>
   <summary><h6 style="display:inline;">2023</h6></summary>
-
+<ul>
 <h6>December:</h6>
 
 <ul style="margin-bottom:.5em;list-style-type:disc">
@@ -297,7 +298,7 @@ Prior to this, I obtained an MMath in Mathematics from the University of Southam
           <b>Title: </b><i>Cell phenotyping via hyperspectral unmixing autoencoders</i><br>📍York, UK</p>
 </ul>
 
-
+</ul>
 </details>
 
 
