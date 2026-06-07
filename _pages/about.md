@@ -90,7 +90,7 @@ Prior to this, I obtained an MMath in Mathematics from the University of Southam
 </ul> 
 
 <ul style="margin-bottom:.5em;list-style-type:disc">
-    <li style="margin-bottom:0em">🪧 Poster presentation at the Imageommics workshop at NeurIPS'25</li>
+    <li style="margin-bottom:0em">🪧 Poster presentation at the Imageomics workshop at NeurIPS'25</li>
 <p class="institution" style="color:#82807f;font-weight:normal;font-size:14px;font-style: italic;margin-bottom:0px;">
           <b>Title: </b><i>Label-free biochemical imaging of neural organoids via deep learning-enhanced Raman microspectroscopy</i><br>📍San Diego, USA</p>
 </ul> 
