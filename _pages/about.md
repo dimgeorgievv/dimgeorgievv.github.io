@@ -20,10 +20,10 @@ Prior to this, I obtained an MMath in Mathematics from the University of Southam
       <div class="col-md-5">
         <h3 style="font-size:24px;border-bottom: 1px solid #dcdcdc;margin-bottom:20px;">Interests</h3>
         <ul class="ul-interests">          
-          <li>Deep learning</li>          
-          <li>Label-free biophotonics</li>          
-          <li>Analytical chemistry</li>                 
-          <li>Chemometrics</li>   
+          <li>Deep learning</li>           
+          <li>Analytical chemistry</li>             
+          <li>Tissue analysis</li>                 
+          <li>Molecular modelling</li> 
           <li>Drug discovery</li>            
           <li>AI for science</li>
         </ul>
