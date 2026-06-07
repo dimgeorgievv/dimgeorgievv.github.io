@@ -12,7 +12,7 @@ I am currently a Postdoctoral Research Scientist in Prof. Dame Molly Stevens' gr
 
 I completed my PhD in Artificial Intelligence and Machine Learning at Imperial College London in 2025, supervised by Prof. Mauricio Barahona and Prof. Dame Molly Stevens. During my PhD, I developed machine learning methods and open-source software for Raman spectroscopy, enabling label-free biochemical imaging of neural organoids to study early human brain development.
 
-Prior to this, I obtained an MMath in Mathematics from the University of Southampton, with a minor in Computer Science, where I also worked as a Research Assistant on multi-agent systems and agent-based modelling. Alongside my academic research, I have gained industry experience in machine learning, data science, and software engineering.
+Prior to this, I obtained an MMath in Mathematics from the University of Southampton, with a minor in Computer Science, where I also worked as a Research Assistant on multi-agent systems and agent-based modelling. Alongside my academic research, I have gained industry experience in machine learning, data science and software engineering.
 
 <br>
 
