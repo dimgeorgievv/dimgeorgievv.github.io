@@ -7,6 +7,51 @@
   <meta name="theme-color" content="#faf7f2">
   <title>Dimitar Georgiev, PhD</title>
   <link rel="stylesheet" href="styles.css">
+  <style>
+    .intro {
+      grid-template-areas:
+        "intro-copy profile"
+        "intro-details profile";
+      grid-template-rows: auto 1fr;
+      row-gap: 1.25rem;
+    }
+
+    .intro-copy { grid-area: intro-copy; }
+    .profile { grid-area: profile; }
+
+    .intro-details {
+      grid-area: intro-details;
+      margin-top: 0;
+    }
+
+    @media (max-width: 45rem) {
+      .intro {
+        grid-template-areas:
+          "intro-copy"
+          "profile"
+          "intro-details";
+        grid-template-rows: auto auto auto;
+        row-gap: 1.4rem;
+      }
+
+      .profile {
+        grid-template-columns: clamp(4rem, 22vw, 6rem) minmax(0, 1fr);
+        grid-template-areas:
+          "portrait affiliation"
+          "portrait links";
+        align-items: start;
+        gap: 0.55rem 0.9rem;
+      }
+
+      .profile .portrait-frame {
+        grid-area: portrait;
+        width: 100%;
+      }
+
+      .profile .affiliation { grid-area: affiliation; }
+      .profile .profile-links { grid-area: links; }
+    }
+  </style>
   <script src="navigation.js" defer></script>
 </head>
 
@@ -31,12 +76,6 @@
     <section class="intro" id="about" aria-labelledby="name">
       <div class="intro-copy">
         <h1 id="name">Dimitar Georgiev, PhD</h1>
-        <div class="bio">
-          <p>I am an AI researcher working at the intersection of <mark>machine learning, biology, chemistry and medicine</mark>.</p>
-          <p>I’m currently a <mark><strong>postdoc in <a class="group-link" href="https://www.stevensgroup.org" target="_blank" rel="noopener">Prof. Dame Molly Stevens’ group</a> at the University of Oxford</strong></mark>. I develop machine learning methods to understand and engineer biological and chemical systems, with applications in cellular and tissue imaging, diagnostics, drug delivery and therapeutic design.</p>
-          <p>I obtained a <mark><strong>PhD in AI &amp; ML from Imperial College London</strong></mark> in 2025. During my PhD, I developed machine learning methods and open-source software for Raman spectroscopy, demonstrating label-free biochemical imaging in neural organoids to study early human brain development.</p>
-          <p>Previously, I earned an <mark><strong>MMath in Mathematics</strong> from the University of Southampton</mark>, where I worked as a Research Assistant on multi-agent systems and agent-based modelling. I minored in Computer Science and have industry experience in machine learning, data science and software engineering.</p>
-        </div>
       </div>
 
       <div class="profile">
@@ -54,6 +93,13 @@
           <li><a href="https://x.com/dimgeorgievv" target="_blank" rel="noopener"><img src="assets/icons/x-twitter.svg" alt="" width="16" height="16"> <span class="x-profile-label">X (Twitter)</span></a></li>
           <li><a href="https://www.researchgate.net/profile/Dimitar-Georgiev-11" target="_blank" rel="noopener"><img src="assets/icons/researchgate.svg" alt="" width="16" height="16"> ResearchGate</a></li>
         </ul>
+      </div>
+
+      <div class="bio intro-details">
+        <p>I am an AI researcher working at the intersection of <mark>machine learning, biology, chemistry and medicine</mark>.</p>
+        <p>I’m currently a <mark><strong>postdoc in <a class="group-link" href="https://www.stevensgroup.org" target="_blank" rel="noopener">Prof. Dame Molly Stevens’ group</a> at the University of Oxford</strong></mark>. I develop machine learning methods to understand and engineer biological and chemical systems, with applications in cellular and tissue imaging, diagnostics, drug delivery and therapeutic design.</p>
+        <p>I obtained a <mark><strong>PhD in AI &amp; ML from Imperial College London</strong></mark> in 2025. During my PhD, I developed machine learning methods and open-source software for Raman spectroscopy, demonstrating label-free biochemical imaging in neural organoids to study early human brain development.</p>
+        <p>Previously, I earned an <mark><strong>MMath in Mathematics</strong> from the University of Southampton</mark>, where I worked as a Research Assistant on multi-agent systems and agent-based modelling. I minored in Computer Science and have industry experience in machine learning, data science and software engineering.</p>
       </div>
     </section>
 
